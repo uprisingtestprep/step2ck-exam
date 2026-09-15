@@ -1,0 +1,2502 @@
+[
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "At what age does a healthy infant typically regain birth weight after the expected early weight loss?",
+    "back": "By about 2 weeks of age, after losing up to about 10% of birth weight in the first week."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "By what age should the Moro reflex normally disappear?",
+    "back": "By about 4 to 6 months of age; persistence beyond this suggests upper motor neuron dysfunction."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What is the classic first sign of puberty in females, and at what age range does it usually begin?",
+    "back": "Thelarche (breast budding), usually between ages 8 and 13."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What is the classic first sign of puberty in males, and at what age range does it usually begin?",
+    "back": "Testicular enlargement, usually between ages 9 and 14."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "How long after thelarche does menarche typically occur?",
+    "back": "About 2 to 2.5 years after thelarche begins."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What defines precocious puberty in girls and in boys?",
+    "back": "Onset of pubertal signs before age 8 in girls or before age 9 in boys."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What defines delayed puberty in girls and in boys?",
+    "back": "Absence of any pubertal signs by age 13 in girls or age 14 in boys."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What are the two clinical forms of thiamine (vitamin B1) deficiency and what does each affect?",
+    "back": "Wet beriberi affects the heart (high-output failure); dry beriberi affects peripheral nerves (symmetric weakness and sensory loss)."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What triad defines Wernicke encephalopathy?",
+    "back": "Confusion, ataxia, and ophthalmoplegia (with nystagmus), from thiamine deficiency."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What must be given before or with intravenous glucose in a patient at risk for Wernicke encephalopathy?",
+    "back": "Thiamine, since glucose alone can precipitate or worsen the encephalopathy."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What is Korsakoff syndrome and how does it relate to Wernicke encephalopathy?",
+    "back": "A chronic, often irreversible amnestic disorder (confabulation, anterograde amnesia) that can follow inadequately treated Wernicke encephalopathy."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What is the classic triad of pellagra and which vitamin deficiency causes it?",
+    "back": "Dermatitis (photosensitive rash), diarrhea, and dementia, from niacin (vitamin B3) deficiency."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "Which two deficiencies cause megaloblastic anemia, and what key lab value distinguishes them?",
+    "back": "Folate and vitamin B12 deficiency; only B12 deficiency also raises methylmalonic acid (both raise homocysteine)."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What neurologic syndrome is specific to vitamin B12 deficiency (not folate deficiency)?",
+    "back": "Subacute combined degeneration of the spinal cord, affecting dorsal columns and lateral corticospinal tracts."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "Why is folic acid supplementation recommended before conception?",
+    "back": "To reduce the risk of neural tube defects such as spina bifida in early pregnancy."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What are the classic findings of scurvy and which vitamin deficiency causes it?",
+    "back": "Bleeding gums, perifollicular hemorrhages, poor wound healing, and corkscrew hairs, from vitamin C deficiency (impaired collagen cross-linking)."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What does vitamin D deficiency cause in children versus in adults?",
+    "back": "Rickets in children (bowed legs, rachitic rosary, delayed fontanelle closure); osteomalacia in adults (bone pain, proximal muscle weakness, poor mineralization)."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "Which clotting factors and proteins depend on vitamin K for synthesis?",
+    "back": "Factors 2, 7, 9, and 10, along with proteins C and S."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "Why do newborns receive a vitamin K injection at birth?",
+    "back": "To prevent hemorrhagic disease of the newborn, since infants have low vitamin K stores and a sterile gut at birth."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What does chronic vitamin A toxicity cause?",
+    "back": "Headache, blurred vision (pseudotumor cerebri), alopecia, dry skin, and hepatotoxicity; it is also teratogenic."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What does vitamin A deficiency cause?",
+    "back": "Night blindness, xerophthalmia, and Bitot spots, which can progress to corneal ulceration and blindness."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What is the classic triad of acrodermatitis enteropathica or acquired zinc deficiency?",
+    "back": "Dermatitis (perioral and acral), diarrhea, and alopecia, often with additional features such as poor wound healing and hypogeusia (impaired taste)."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What is pica and with which common deficiency is it associated?",
+    "back": "Persistent craving and consumption of non-nutritive substances (such as ice); associated with iron deficiency anemia."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What nail finding is classically associated with chronic iron deficiency anemia?",
+    "back": "Koilonychia (spoon-shaped nails)."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What is the mechanism of pellagra in carcinoid syndrome?",
+    "back": "Excess tryptophan is diverted to serotonin synthesis by the tumor, leaving too little tryptophan for niacin synthesis."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What electrolyte disturbances define refeeding syndrome, and what is the underlying mechanism?",
+    "back": "Hypophosphatemia, hypokalemia, and hypomagnesemia, caused by an insulin surge driving these electrolytes intracellularly when nutrition is reintroduced after starvation."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "How should nutrition be reintroduced in a severely malnourished patient to prevent refeeding syndrome?",
+    "back": "Start feeding slowly with gradual advancement while proactively monitoring and repleting phosphate, potassium, and magnesium."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What are the core diagnostic features of anorexia nervosa?",
+    "back": "Significantly low body weight, intense fear of weight gain, and distorted body image, often with amenorrhea and bradycardia."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What are the core diagnostic features of bulimia nervosa?",
+    "back": "Recurrent binge eating with compensatory behavior (such as self-induced vomiting), typically at a normal or near-normal body weight."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What physical exam finding (Russell sign) is relatively specific to self-induced vomiting?",
+    "back": "Calluses or scarring on the dorsal surface of the fingers used to induce vomiting."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What laboratory abnormality is classic in bulimia nervosa from repeated vomiting?",
+    "back": "Hypokalemic metabolic alkalosis."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What defines binge eating disorder, and how does it differ from bulimia nervosa?",
+    "back": "Recurrent binge eating episodes without regular compensatory behaviors (unlike bulimia nervosa, which includes purging, laxative misuse, or excessive exercise)."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What are the body mass index cutoffs for underweight, normal, overweight, and obesity?",
+    "back": "Underweight under 18.5; normal 18.5 to 24.9; overweight 25 to 29.9; obesity 30 or above (class 3, or severe, obesity is 40 or above)."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What is the first-line management approach for obesity before considering pharmacotherapy or surgery?",
+    "back": "Intensive lifestyle intervention (diet and exercise counseling)."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What are general body mass index thresholds supporting consideration of bariatric surgery?",
+    "back": "A body mass index of 40 or above alone, or around 35 (or lower with some criteria) with a significant obesity-related comorbidity, after an inadequate response to lifestyle and pharmacologic measures."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "At what age is average-risk mammography screening generally recommended to begin?",
+    "back": "Somewhere in the range of age 40 to 50, continuing every 1 to 2 years through at least the mid-70s."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What is the recommended cervical cancer screening strategy for women age 21 to 29?",
+    "back": "Cytology alone every 3 years."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What are the accepted cervical cancer screening strategies for women age 30 to 65?",
+    "back": "Cytology alone every 3 years, high-risk HPV testing alone every 5 years, or co-testing every 5 years."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "At what age can cervical cancer screening generally stop, and under what condition?",
+    "back": "Around age 65, if there has been adequate prior negative screening and no history of high-grade dysplasia."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "At what age does average-risk colorectal cancer screening begin, and what are two accepted modalities?",
+    "back": "Age 45; colonoscopy every 10 years or annual fecal immunochemical testing, among other options."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "Who qualifies for annual low-dose CT lung cancer screening?",
+    "back": "Adults age 50 to 80 with a significant smoking history who currently smoke or quit within the past 15 years."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "At what age should routine DEXA osteoporosis screening begin in women?",
+    "back": "Age 65 for all women, earlier in postmenopausal women under 65 with risk factors."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What T-score defines osteoporosis, osteopenia, and normal bone density?",
+    "back": "Osteoporosis is negative 2.5 or below; osteopenia is negative 1.0 to negative 2.5; normal is above negative 1.0."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "Who qualifies for one-time abdominal aortic aneurysm screening ultrasound?",
+    "back": "Men age 65 to 75 who have ever smoked."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What is the CAGE questionnaire used to screen for, and what does a positive result mean?",
+    "back": "Alcohol use disorder (Cut down, Annoyed, Guilty, Eye-opener); 2 or more yes answers suggests a possible alcohol use disorder."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What does the 5 A's framework structure, and what are its steps?",
+    "back": "Brief tobacco cessation counseling: Ask, Advise, Assess, Assist, Arrange."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "How does combining behavioral counseling with pharmacotherapy affect tobacco quit rates?",
+    "back": "It roughly doubles quit rates compared with either approach used alone."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What does a positive PHQ-2 screen prompt as a next step?",
+    "back": "A more detailed depression assessment, such as the PHQ-9."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What is the Timed Up and Go test used for, and what result suggests increased fall risk?",
+    "back": "Assessing fall risk in older adults; a time greater than about 12 seconds suggests increased risk."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What tool is used for brief cognitive screening at a Medicare Annual Wellness Visit?",
+    "back": "The Mini-Cog or Mini-Mental State Examination."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What are the four categories of elder mistreatment?",
+    "back": "Physical abuse, emotional abuse, financial exploitation, and neglect (self-neglect is a related but distinct category)."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What is the recommended immediate step when elder abuse is suspected but a caregiver dominates the visit?",
+    "back": "Interview the patient alone, without the caregiver present, before proceeding further."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What is the DTaP vaccination schedule in infancy and early childhood?",
+    "back": "2, 4, 6, and 15 to 18 months, with a booster at 4 to 6 years, then transitioning to Tdap in adolescence."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "At what ages are MMR and varicella vaccines routinely given?",
+    "back": "12 to 15 months, with a second dose at 4 to 6 years."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "Why are MMR, varicella, and rotavirus vaccines all contraindicated in significant immunosuppression?",
+    "back": "They are all live attenuated vaccines, which carry a risk of vaccine-strain disease in an immunosuppressed host."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "Why does the rotavirus vaccine have a strict maximum age for starting the series?",
+    "back": "Because of an observed association with intussusception when given outside its recommended age window."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "How many doses of the HPV vaccine are needed if started before age 15, versus at or after age 15?",
+    "back": "2 doses if started before age 15; 3 doses if started at 15 or older, or in immunocompromised patients."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "At what age is the recombinant zoster (shingles) vaccine recommended to begin?",
+    "back": "Age 50."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "Which vaccine is recommended during every pregnancy regardless of prior vaccination history?",
+    "back": "Tdap, ideally in the early third trimester, to protect the newborn from pertussis."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What tetanus booster interval applies to a clean, minor wound versus a contaminated or high-risk wound?",
+    "back": "10 years for a clean minor wound; 5 years for a contaminated or high-risk wound."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "Which vaccine is required for entry into certain countries in sub-Saharan Africa and South America?",
+    "back": "Yellow fever vaccine (a live vaccine)."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What are three commonly used oral malaria prophylaxis regimens?",
+    "back": "Atovaquone-proguanil, doxycycline, and mefloquine, selected based on regional resistance patterns."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What vaccine is recommended for most travelers to destinations with unreliable water treatment who are not already immune?",
+    "back": "Hepatitis A vaccine."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "When is enteral nutrition preferred over parenteral nutrition?",
+    "back": "Whenever the gastrointestinal tract is functional, since it preserves gut mucosal integrity and carries a lower infection risk."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "When is parenteral nutrition indicated instead of enteral nutrition?",
+    "back": "When the gastrointestinal tract is nonfunctional, such as with bowel obstruction, severe ileus, or short bowel syndrome."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What are two major risks of long-term parenteral nutrition?",
+    "back": "Catheter-related bloodstream infection and hepatic steatosis (liver dysfunction)."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "Why is serum albumin an unreliable isolated marker of nutritional status in an acutely ill patient?",
+    "back": "Because it is also a negative acute-phase reactant and falls with inflammation independent of true nutritional status."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What waist circumference measurement adds to body mass index in cardiometabolic risk assessment?",
+    "back": "An estimate of visceral (central) adiposity and associated cardiometabolic risk, independent of body mass index alone."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "At what age should routine diabetes screening generally begin in an average-risk adult without risk factors?",
+    "back": "Around age 35, or earlier with risk factors such as overweight, obesity, or a strong family history."
+  },
+  {
+    "domain": "nutrition_and_preventive_care",
+    "front": "What is the purpose of calculating an atherosclerotic cardiovascular disease risk score?",
+    "back": "To help guide the decision of whether to initiate statin therapy for primary prevention."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What four elements must a patient understand for informed consent to be valid?",
+    "back": "The proposed intervention, its risks and benefits, the reasonable alternatives (including doing nothing), and enough understanding to make a voluntary choice."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What four abilities define decision-making capacity?",
+    "back": "The ability to understand relevant information, appreciate how it applies to one's own situation, reason through the options, and communicate a consistent choice."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "Who determines capacity, and who determines competence?",
+    "back": "Any treating physician can assess capacity. Competence is a legal status that only a court can determine."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "Is capacity a global, permanent status?",
+    "back": "No. Capacity is decision-specific and time-specific; a patient can have capacity for one decision but not another, or regain capacity during a lucid interval."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is implied consent?",
+    "back": "The legal doctrine allowing treatment without explicit consent in an emergency, when a patient cannot communicate and delay would cause serious harm."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is therapeutic privilege?",
+    "back": "A narrow exception allowing a physician to withhold specific information if disclosure would cause serious psychological harm; it does not justify withholding a diagnosis simply because it is upsetting."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is waiver, in the context of informed consent?",
+    "back": "A patient's choice to decline detailed information and ask that a physician or family member decide on their behalf instead."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "Name common exceptions to requiring parental consent for a minor's care.",
+    "back": "Emancipated minors, and care for sexually transmitted infections, contraception and pregnancy, substance abuse treatment, and emergency care."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is the default legal surrogate hierarchy when a patient lacks capacity and has no guardian or named health care agent?",
+    "back": "Spouse, then adult children, then parents, then adult siblings, then other relatives. A court-appointed guardian or a named health care agent, if one already exists, takes priority over this entire list."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is assent, and how does it differ from consent for a minor?",
+    "back": "Assent is a child's own agreement and cooperation with a proposed treatment; the parent or guardian still provides the legally binding consent."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What does HIPAA stand for and what does it establish?",
+    "back": "The Health Insurance Portability and Accountability Act; it sets the federal floor for protecting health information, with stricter state laws taking precedence when they exist."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "Name conditions requiring mandatory reporting that override confidentiality.",
+    "back": "Suspected child abuse or neglect, suspected elder or vulnerable-adult abuse, and certain communicable diseases reportable to public health authorities."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is the Tarasoff principle?",
+    "back": "A physician's duty to take reasonable steps to protect an identifiable third party from a patient's credible, specific threat of harm, which may include warning the victim or notifying police."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "Is intimate partner violence against a competent adult generally subject to mandatory reporting?",
+    "back": "No, most states do not mandate reporting for a competent adult victim who does not want to report, preserving the adult's autonomy over their own safety decisions."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "Can a minor's disclosure of sexual activity generally be shared with parents without permission?",
+    "back": "No, most states protect this disclosure as confidential, one of the recognized exceptions to parental notification."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is the HIPAA minimum necessary standard?",
+    "back": "Even when disclosure is permitted, only the minimum amount of information needed for that specific purpose should be shared."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "Do psychotherapy notes receive extra protection under HIPAA?",
+    "back": "Yes, they generally require a separate, specific authorization before release, beyond what is needed for the rest of the medical record."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What are the three core purposes for which HIPAA allows information to flow without a separate authorization?",
+    "back": "Treatment, payment, and health care operations."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is a living will?",
+    "back": "An advance directive describing a patient's specific treatment preferences, such as whether they want mechanical ventilation or artificial nutrition in a terminal or permanently unconscious state."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is a durable power of attorney for health care?",
+    "back": "A document designating a specific person, a health care agent, to make medical decisions on the patient's behalf if the patient loses capacity."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "When a living will and a later-named health care agent conflict, whose judgment generally controls?",
+    "back": "The health care agent's judgment about the patient's likely current wishes generally takes priority, since the agent can apply new information the document could not anticipate."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is the substituted judgment standard?",
+    "back": "A surrogate decides as the patient themselves would have decided, based on the patient's own previously expressed values, not the surrogate's personal preference."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is the best interest standard, and when is it used?",
+    "back": "A surrogate chooses the option a reasonable person would want in that situation; it is used only when the patient's own wishes are entirely unknown."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "Does a DNR order mean a patient should receive no other treatment?",
+    "back": "No. A DNR order addresses only cardiopulmonary resuscitation; all other appropriate care, such as antibiotics or surgery, should continue unless separately declined."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is medical futility?",
+    "back": "An intervention that cannot achieve its intended physiologic goal or would not meaningfully benefit the patient given their overall prognosis."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is the appropriate step when a physician and family disagree about withdrawing futile treatment?",
+    "back": "Involve the hospital ethics committee to mediate the disagreement and clarify the medical facts and the patient's own values."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "How does physician-assisted death differ from euthanasia?",
+    "back": "In physician-assisted death the patient self-administers the lethal medication; in euthanasia another person administers it directly. Euthanasia is illegal everywhere in the United States."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is the principle of double effect?",
+    "back": "An action with a good intended effect, such as relieving severe pain with opioids, is ethically permissible even if it carries a foreseen but unintended risk of a harmful secondary effect, as long as causing harm is not the intent."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "Is withdrawing a non-beneficial, life-sustaining treatment considered euthanasia?",
+    "back": "No. Withdrawing or withholding a treatment that is not providing meaningful benefit is standard, accepted practice, since the underlying disease, not the withdrawal, causes death."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is a POLST form?",
+    "back": "Physician Orders for Life-Sustaining Treatment, a portable medical order reflecting a patient's goals of care that should be interpreted in the context of those goals rather than applied rigidly to every clinical situation."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What often automatically revokes a former spouse's authority as a designated health care agent?",
+    "back": "Divorce, in most states, unless the patient specifically reaffirms the designation afterward."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is the Swiss cheese model of error?",
+    "back": "A model in which multiple imperfect layers of defense each have small gaps, and a serious error usually requires several gaps to align at once to reach the patient."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is a root cause analysis?",
+    "back": "A structured, retrospective, multidisciplinary review after a serious event that identifies the underlying systemic contributing factors, continuing past the most obvious proximate cause."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is a PDSA cycle?",
+    "back": "Plan-Do-Study-Act, an iterative quality improvement method: plan a small testable change, implement it, study the results, then decide whether to adopt, adapt, or abandon it."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is a near miss or close call?",
+    "back": "An error caught before it reaches the patient and causes no harm; it remains valuable safety data and should still be formally reported."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is required when a medical error reaches a patient?",
+    "back": "Prompt, honest disclosure, including an acknowledgment that an error occurred, an apology, and a description of steps being taken to prevent recurrence, regardless of whether harm resulted."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "Does transparent error disclosure increase or decrease malpractice litigation risk?",
+    "back": "Most current evidence suggests transparent disclosure actually reduces malpractice litigation rather than increasing it."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is a just culture?",
+    "back": "A framework that distinguishes ordinary human error and at-risk behavior, addressed through system improvement, from reckless conduct, which still warrants individual accountability."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is a sentinel event?",
+    "back": "An unexpected occurrence involving serious harm or death not primarily related to the natural course of the patient's illness, requiring a formal root cause analysis."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What defines a systems-based approach to patient safety?",
+    "back": "Recognizing that most serious errors result from multiple aligned weaknesses in a system's design, rather than from a single individual's isolated failure."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What does Medicare Part A cover?",
+    "back": "Inpatient hospital care, skilled nursing facility stays, hospice, and some home health care, funded through payroll taxes with generally no monthly premium for most beneficiaries."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What does Medicare Part B cover?",
+    "back": "Outpatient physician services, durable medical equipment, and preventive services, requiring a monthly premium."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is Medicare Part C?",
+    "back": "Medicare Advantage, an alternative to original Medicare in which a private insurer administers the benefit, often bundling in additional coverage."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What does Medicare Part D cover?",
+    "back": "Outpatient prescription drugs, administered through private plans."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is Medicaid?",
+    "back": "A joint federal and state program providing coverage for eligible low-income individuals and families, with eligibility and covered benefits varying by state."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "How does an HMO generally work?",
+    "back": "It requires selecting a primary care physician who coordinates care and provides referrals to specialists, and generally does not cover out-of-network care except in emergencies."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "How does a PPO generally work?",
+    "back": "It allows seeing specialists without a referral and provides at least partial coverage for out-of-network care, usually with a higher monthly premium."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is capitation?",
+    "back": "A reimbursement model paying a fixed amount per patient per period regardless of services used, shifting financial risk to the provider and incentivizing efficient, preventive care."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is fee-for-service reimbursement?",
+    "back": "A model that pays a separate amount for each individual service rendered, which can incentivize higher volumes of testing and treatment."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is an accountable care organization?",
+    "back": "A group of providers who share responsibility for the cost and quality of care for a defined population, aligning incentives with outcomes rather than service volume."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is a conflict of interest, and when must it be disclosed?",
+    "back": "Any situation where personal, financial, or professional interests could improperly influence professional judgment; it must be disclosed simply because it creates the potential for bias, not only if bias is proven."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What is the role of an institutional review board?",
+    "back": "To review proposed human-subjects research before it begins, evaluating the risk-benefit balance, informed consent procedures, and additional protections for vulnerable populations."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What must research informed consent specifically disclose, beyond standard clinical consent?",
+    "back": "That participation is voluntary, that the subject may withdraw at any time without penalty, and any risks specific to the research itself."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "Are romantic relationships with current patients ever appropriate?",
+    "back": "No, they are never appropriate and violate the professional boundary inherent in the physician-patient relationship."
+  },
+  {
+    "domain": "social_sciences_ethics_law_and_patient_safety",
+    "front": "What should a physician do upon recognizing signs of impairment in a colleague?",
+    "back": "Report the concern through the appropriate institutional or state physician health channel, rather than ignoring it or handling it only informally."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What are the three categories used to classify acute kidney injury?",
+    "back": "Prerenal (reduced kidney perfusion), intrinsic renal (damage to tubules, interstitium, or glomeruli), and postrenal (obstruction of urine flow)."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What FENa value suggests prerenal azotemia versus acute tubular necrosis?",
+    "back": "FENa under 1 percent suggests prerenal azotemia (avid sodium reabsorption). FENa above 2 percent suggests acute tubular necrosis (loss of tubular function)."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What urine sediment finding is classic for acute tubular necrosis?",
+    "back": "Muddy brown granular casts, reflecting sloughed tubular epithelial cells."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What triad suggests drug-induced acute interstitial nephritis?",
+    "back": "Fever, rash, and eosinophiluria following a new medication such as a beta-lactam, sulfa drug, PPI, or NSAID."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What does the mnemonic AEIOU stand for in dialysis indications?",
+    "back": "Refractory Acidosis, severe Electrolyte abnormalities (hyperkalemia), Ingestion of a dialyzable toxin, volume Overload unresponsive to diuretics, and Uremic symptoms."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What are the main complications of chronic kidney disease?",
+    "back": "Normocytic anemia (low erythropoietin), secondary hyperparathyroidism and renal osteodystrophy, metabolic acidosis, and uremic symptoms such as pericarditis and platelet dysfunction."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "Why are ACE inhibitors and ARBs preferred in proteinuric chronic kidney disease?",
+    "back": "They dilate the efferent arteriole preferentially, lowering intraglomerular pressure and reducing proteinuria beyond their blood pressure lowering effect."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "How is nephrotic syndrome defined?",
+    "back": "Proteinuria over 3.5 grams per day, hypoalbuminemia, edema, and hyperlipidemia, with a relatively bland urine sediment."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What is the most common cause of nephrotic syndrome in children, and what does biopsy show?",
+    "back": "Minimal change disease; light microscopy is normal, but electron microscopy shows podocyte foot process effacement. It responds well to corticosteroids."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "Which nephrotic syndrome is most associated with heroin use, HIV, and Black patients?",
+    "back": "Focal segmental glomerulosclerosis (FSGS), showing segmental sclerosis of some glomeruli on biopsy."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "Which nephrotic syndrome is associated with solid tumors, hepatitis B, and anti-PLA2R antibodies?",
+    "back": "Membranous nephropathy, which also carries an elevated risk of renal vein thrombosis."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What biopsy finding is classic for diabetic nephropathy?",
+    "back": "Nodular glomerulosclerosis, also called Kimmelstiel-Wilson lesions."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "How is nephritic syndrome defined?",
+    "back": "Hematuria with dysmorphic red cells and red cell casts, some proteinuria, hypertension, and often a falling GFR, reflecting glomerular inflammation."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What distinguishes IgA nephropathy from post-streptococcal glomerulonephritis?",
+    "back": "IgA nephropathy causes gross hematuria within 1 to 2 days of an upper respiratory infection with normal complement. Post-strep GN has a 1 to 3 week latency and low complement."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What immunofluorescence pattern is seen in anti-glomerular basement membrane (Goodpasture) disease?",
+    "back": "A smooth, linear pattern of staining along the glomerular basement membrane, associated with pulmonary hemorrhage and rapidly progressive glomerulonephritis."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "Which class of lupus nephritis is the most aggressive, and what does biopsy show?",
+    "back": "Class IV, diffuse proliferative lupus nephritis, showing more than half of glomeruli involved with subendothelial immune deposits; it requires intensive immunosuppression."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What is the anion gap formula and normal range?",
+    "back": "Anion gap equals sodium minus (chloride plus bicarbonate); normal is approximately 8 to 12 mEq/L."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "How fast can chronic hyponatremia safely be corrected, and why?",
+    "back": "No faster than about 8 mEq/L in 24 hours, to avoid osmotic demyelination syndrome from too-rapid correction."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What is the most common cause of euvolemic hyponatremia, and what cancer is classically linked to it?",
+    "back": "Syndrome of inappropriate antidiuretic hormone secretion (SIADH); small cell lung cancer is a classic ectopic ADH source."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What is the first treatment step for severe hyperkalemia with ECG changes?",
+    "back": "Intravenous calcium gluconate, to stabilize the cardiac membrane, followed by insulin with dextrose to shift potassium intracellularly."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What is the most common type of kidney stone, and what promotes it?",
+    "back": "Calcium oxalate; promoted by low fluid intake and diets high in oxalate or animal protein."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What organisms cause struvite stones, and why?",
+    "back": "Urease-producing organisms such as Proteus mirabilis, which split urea into ammonia and alkalinize the urine, allowing struvite crystals to form and grow into staghorn calculi."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What stone type is radiolucent on plain X-ray but visible on CT?",
+    "back": "Uric acid stones, which form in persistently acidic urine and are linked to gout and high-purine diets."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "When should asymptomatic bacteriuria be treated?",
+    "back": "Only in pregnancy or before an invasive urologic procedure; otherwise treatment does not improve outcomes and promotes resistance."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What are the four types of urinary incontinence and their basic mechanisms?",
+    "back": "Stress (urethral hypermobility or sphincter weakness), urgency (overactive detrusor), overflow (underactive detrusor or obstruction with a large post-void residual), and functional (normal urinary tract, impaired access)."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What is first-line pharmacologic treatment for BPH, and why?",
+    "back": "An alpha-1 blocker such as tamsulosin, because it relaxes prostatic and bladder neck smooth muscle for rapid symptom relief; finasteride shrinks the gland but takes months."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What exam findings distinguish testicular torsion from epididymitis?",
+    "back": "Torsion: high-riding testicle, horizontal lie, absent cremasteric reflex, sudden severe pain. Epididymitis: gradual pain, relief with elevation (positive Prehn sign), intact cremasteric reflex."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "How do a hydrocele and a varicocele differ on exam?",
+    "back": "A hydrocele transilluminates brightly and is generally painless. A varicocele feels like a bag of worms and decreases in size when the patient lies down."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What are the Rotterdam criteria for polycystic ovary syndrome?",
+    "back": "At least two of: oligo-ovulation or anovulation, clinical or biochemical hyperandrogenism, and polycystic ovaries on ultrasound, after excluding other causes of androgen excess."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What is the classic symptom triad of endometriosis?",
+    "back": "Cyclic pelvic pain beginning before menses, dyspareunia, and dyschezia; laparoscopy with visualization is the definitive diagnostic test."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "How does adenomyosis differ from uterine leiomyoma on exam?",
+    "back": "Adenomyosis causes diffuse, tender uterine enlargement without a discrete mass. Leiomyoma (fibroid) causes an irregularly enlarged uterus with a discrete, well-circumscribed mass."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What are the PALM-COEIN categories of abnormal uterine bleeding?",
+    "back": "Structural: Polyp, Adenomyosis, Leiomyoma, Malignancy. Nonstructural: Coagulopathy, Ovulatory dysfunction, Endometrial, Iatrogenic, Not otherwise classified."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "How should a small, simple, thin-walled ovarian cyst in a premenopausal woman be managed?",
+    "back": "Conservatively, with a repeat ultrasound in several weeks to months, since most are functional cysts that resolve on their own."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What proportion of infertility involves a male factor, and what test evaluates it?",
+    "back": "Roughly half of cases; semen analysis should be obtained early, in parallel with evaluation of the woman's ovulatory and anatomic factors."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "How do a fibroadenoma and fibrocystic breast changes typically present?",
+    "back": "Fibroadenoma: a firm, mobile, well-circumscribed, painless mass, usually in young women. Fibrocystic changes: bilateral, cyclic tenderness and diffuse nodularity that fluctuates with the menstrual cycle."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What breast finding requires prompt imaging and biopsy regardless of tenderness?",
+    "back": "A new, firm, irregular, immobile mass, especially with skin dimpling, nipple retraction, or axillary lymphadenopathy, particularly in a woman over 40."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What distinguishes inflammatory breast cancer from simple mastitis?",
+    "back": "Inflammatory breast cancer causes erythema, warmth, and peau d'orange skin changes that do NOT improve with a full course of antibiotics, and requires skin punch biopsy."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "What is Paget disease of the breast, and what is it associated with?",
+    "back": "An eczematous, crusting change of the nipple and areola that fails topical treatment, frequently associated with an underlying ductal carcinoma even without a palpable mass."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "Why is erectile dysfunction sometimes considered an early cardiovascular warning sign?",
+    "back": "Small penile arteries develop atherosclerotic narrowing before larger coronary arteries do, so new ED can precede overt coronary artery disease."
+  },
+  {
+    "domain": "renal_urinary_and_reproductive_systems",
+    "front": "Why are PDE-5 inhibitors contraindicated with nitrate use?",
+    "back": "Both increase nitric oxide-mediated vasodilation, and combining them can cause severe, potentially life-threatening hypotension."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What ECG finding defines a STEMI?",
+    "back": "ST elevation of at least 1 mm in two or more contiguous leads, or a new left bundle branch block with a compatible clinical history."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "Which coronary artery is usually occluded in an inferior STEMI, and what complication should be anticipated?",
+    "back": "The right coronary artery; anticipate possible right ventricular infarction with preload-dependent hypotension, so avoid nitrates and morphine until this is clarified."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What is the PCI time window that determines whether fibrinolysis should be given instead?",
+    "back": "If primary PCI cannot be performed within 120 minutes of first medical contact (when transfer is needed), fibrinolytic therapy should be given within 30 minutes of arrival if not contraindicated."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "How are unstable angina and NSTEMI distinguished?",
+    "back": "Both present with rest pain and possible ST depression or T wave inversion, but unstable angina has a normal troponin while NSTEMI has an elevated troponin."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What mechanical complication of MI presents with a new holosystolic murmur at the apex and sudden flash pulmonary edema?",
+    "back": "Papillary muscle rupture causing acute severe mitral regurgitation."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "When does free wall rupture with cardiac tamponade typically occur after MI, and how does it present?",
+    "back": "Typically 3 to 5 days after a transmural infarct, presenting with sudden hypotension, jugular venous distension, and muffled heart sounds."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What is Dressler syndrome and when does it occur?",
+    "back": "An immune-mediated pericarditis occurring weeks after myocardial infarction, presenting with pleuritic pain relieved by sitting forward, low-grade fever, and diffuse ST elevation with PR depression."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What defines HFrEF versus HFpEF?",
+    "back": "HFrEF is heart failure with an ejection fraction of 40 percent or less; HFpEF is heart failure with an ejection fraction of 50 percent or greater."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What are the four pillars of guideline directed medical therapy for HFrEF?",
+    "back": "An ACE inhibitor or ARB (or ARNI), a beta blocker, a mineralocorticoid receptor antagonist, and an SGLT2 inhibitor."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "Which three beta blockers have proven mortality benefit in HFrEF?",
+    "back": "Carvedilol, metoprolol succinate, and bisoprolol."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What combination therapy has particular mortality benefit in Black patients with HFrEF who remain symptomatic on standard therapy?",
+    "back": "Hydralazine plus isosorbide dinitrate."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What does the bedside 'warm/cold, wet/dry' classification of heart failure guide?",
+    "back": "Warm and wet patients generally need diuresis alone; cold and wet patients (poorly perfused) may need an inotrope in addition to diuresis."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What does an S3 gallop reflect, and in what condition is it classically heard?",
+    "back": "Rapid filling of a dilated, volume-overloaded ventricle during early diastole, classically heard in decompensated systolic heart failure (an S4, by contrast, reflects atrial contraction into a stiff, poorly compliant ventricle)."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What ECG finding characterizes atrial fibrillation?",
+    "back": "An irregularly irregular rhythm with no discrete P waves."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What score is used to guide anticoagulation decisions in atrial fibrillation, and what does a higher score mean?",
+    "back": "The CHA2DS2-VASc score; a higher score indicates greater stroke risk and a stronger indication for anticoagulation."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What is required before cardioversion of atrial fibrillation of unknown duration or over 48 hours?",
+    "back": "Either at least 3 weeks of anticoagulation, or a transesophageal echocardiogram to exclude a left atrial thrombus."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What is the first-line treatment for stable SVT that fails vagal maneuvers?",
+    "back": "Adenosine, which transiently blocks AV node conduction and can terminate the reentrant circuit."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "How should an unstable tachyarrhythmia be treated regardless of the specific rhythm?",
+    "back": "Immediate synchronized cardioversion."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "How should a symptomatic, unstable bradycardia be treated first?",
+    "back": "Atropine; if that fails, transcutaneous pacing or an epinephrine or dopamine infusion while preparing for definitive pacing."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What distinguishes Mobitz type I (Wenckebach) from Mobitz type II second degree AV block?",
+    "back": "Mobitz I shows progressive PR prolongation before a dropped beat and is usually benign; Mobitz II shows a constant PR interval with unpredictably dropped beats and often requires a pacemaker due to risk of complete heart block."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "How is pulseless ventricular fibrillation treated?",
+    "back": "Immediate high-quality chest compressions and unsynchronized defibrillation as soon as the shockable rhythm is confirmed."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What murmur and symptom triad characterize severe aortic stenosis?",
+    "back": "A harsh crescendo-decrescendo systolic murmur radiating to the carotids, with exertional syncope, angina, and heart failure symptoms as key warning signs."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "When is aortic valve replacement indicated in aortic stenosis?",
+    "back": "Once symptoms develop in severe aortic stenosis, or when ejection fraction begins to fall, regardless of symptoms."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "Why does acute severe mitral regurgitation cause sudden pulmonary edema while chronic MR does not?",
+    "back": "The left atrium has not had time to dilate and accommodate the new regurgitant volume in the acute setting, unlike in chronic MR where gradual dilation compensates for years."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What is the classic auscultatory finding of mitral stenosis and its usual cause?",
+    "back": "A low-pitched diastolic rumble at the apex with an opening snap, usually from rheumatic heart disease."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "Which anticoagulant is required in atrial fibrillation with moderate to severe mitral stenosis or a mechanical valve?",
+    "back": "Warfarin, since direct oral anticoagulants are not proven safe or effective in these specific populations."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What diagnostic framework combines blood cultures and echocardiographic findings for infective endocarditis?",
+    "back": "The modified Duke criteria."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "At what blood pressure threshold is hypertension diagnosed?",
+    "back": "Systolic 130 mmHg or higher, or diastolic 80 mmHg or higher, confirmed on at least two separate occasions."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "Which antihypertensive class is preferred first-line in a patient with diabetes and proteinuria or chronic kidney disease?",
+    "back": "An ACE inhibitor or ARB, due to added benefit reducing intraglomerular pressure."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What secondary hypertension clue suggests primary hyperaldosteronism?",
+    "back": "Hypokalemia with metabolic alkalosis."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What symptom triad suggests pheochromocytoma?",
+    "back": "Episodic headache, palpitations, and diaphoresis with paroxysmal severe hypertension."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What is the first medication given in a hypertensive emergency due to aortic dissection, and why?",
+    "back": "An intravenous beta blocker, to reduce aortic wall shear stress (dP/dt) before adding a vasodilator, avoiding reflex tachycardia."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "Who should be screened for abdominal aortic aneurysm with a one-time ultrasound?",
+    "back": "Men aged 65 to 75 who have ever smoked."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What clinical clue suggests aortic dissection over other causes of chest pain?",
+    "back": "Sudden, severe, tearing chest or back pain with a pulse deficit or a significant blood pressure difference between the arms."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "How does management differ between Stanford type A and type B aortic dissection?",
+    "back": "Type A (involves the ascending aorta) is a surgical emergency; type B (confined to the descending aorta) is usually managed medically first unless there is malperfusion or another complication."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "How is the ankle-brachial index calculated, and what value is diagnostic of PAD?",
+    "back": "The higher ankle systolic pressure divided by the higher brachial systolic pressure in each leg; a ratio below 0.9 is diagnostic of PAD."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What are the 'six Ps' of acute limb ischemia?",
+    "back": "Pain, pallor, poikilothermia, pulselessness, paresthesias, and paralysis."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What distinguishes critical limb ischemia from simple claudication?",
+    "back": "Critical limb ischemia includes rest pain, ulceration, or gangrene and requires urgent evaluation for revascularization."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What features of syncope should prompt concern for a cardiac cause?",
+    "back": "Syncope during exertion, syncope while supine, syncope without prodrome, syncope with palpitations or chest pain, a family history of sudden death, or an abnormal ECG."
+  },
+  {
+    "domain": "cardiovascular_system",
+    "front": "What ECG pattern is classic for acute pericarditis?",
+    "back": "Diffuse ST elevation with PR segment depression, distinct from the localized ST elevation of myocardial infarction."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Colles fracture",
+    "back": "A distal radius fracture with dorsal displacement of the distal fragment, from a fall on an outstretched hand, producing a silver-fork deformity."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Smith fracture",
+    "back": "A distal radius fracture with volar displacement of the distal fragment, from a fall onto a flexed wrist, the mirror image of a Colles fracture."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Scaphoid fracture and avascular necrosis",
+    "back": "The scaphoid's blood supply enters distally and travels retrograde, so proximal pole fractures risk avascular necrosis; snuffbox tenderness with a normal x-ray still warrants splinting and repeat imaging in 10 to 14 days."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Femoral neck fracture",
+    "back": "A displaced fracture through the femoral neck risks avascular necrosis of the femoral head because the retrograde blood supply runs along the neck; urgent surgical fixation is required."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Supracondylar humerus fracture",
+    "back": "A pediatric fracture from a fall onto an extended elbow that risks brachial artery and median nerve injury; a cool, pulseless hand requires emergent reduction."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Ottawa Ankle Rules",
+    "back": "Obtain ankle radiographs if there is bone tenderness at the posterior edge or tip of either malleolus, or if the patient cannot bear weight for four steps immediately after injury and in the emergency department."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Compartment syndrome",
+    "back": "Pain out of proportion to the injury and pain with passive stretch of the affected muscles are the earliest signs; emergent fasciotomy is the definitive treatment."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Volkmann contracture",
+    "back": "Permanent flexion contracture of the forearm and hand resulting from unrecognized or inadequately treated compartment syndrome of the forearm."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Osteoarthritis",
+    "back": "A mechanical joint disease from cartilage wear, causing brief morning stiffness under 30 minutes, pain that worsens with activity and improves with rest, and Heberden and Bouchard nodes."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Rheumatoid arthritis pattern",
+    "back": "Symmetric small joint involvement of the wrists, MCP, and PIP joints, sparing the DIP joints, with morning stiffness over an hour that improves with activity."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Rheumatoid arthritis serology",
+    "back": "Anti-cyclic citrullinated peptide antibody is more specific for rheumatoid arthritis than rheumatoid factor, though neither test alone confirms the diagnosis."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Rheumatoid arthritis treatment",
+    "back": "Early initiation of a disease-modifying antirheumatic drug, most often methotrexate, prevents irreversible joint erosion; screen for latent tuberculosis and hepatitis B before starting a biologic agent."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Ankylosing spondylitis",
+    "back": "Inflammatory back pain in a young patient that improves with exercise and worsens with rest, with sacroiliitis on imaging and a strong HLA-B27 association."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Dactylitis",
+    "back": "Diffuse swelling of an entire digit, sometimes called a sausage digit, is a distinguishing feature of psoriatic arthritis."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Gout, acute presentation",
+    "back": "Sudden, severe monoarticular pain, erythema, and swelling, classically at the first metatarsophalangeal joint, termed podagra."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Gout, crystal analysis",
+    "back": "Needle-shaped, negatively birefringent monosodium urate crystals on polarized light microscopy confirm the diagnosis; synovial fluid should also be cultured to exclude septic arthritis."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Gout, urate-lowering therapy timing",
+    "back": "Never start or adjust urate-lowering therapy during an acute flare; begin allopurinol only after the attack resolves, typically covered with colchicine or an NSAID for several months."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Gout, uric acid level pitfall",
+    "back": "Serum uric acid can be normal or even fall during an acute flare, so it is an unreliable marker for diagnosing an attack in progress."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Pseudogout",
+    "back": "Calcium pyrophosphate deposition disease affecting the knee or wrist in older adults, associated with hemochromatosis, hyperparathyroidism, hypothyroidism, and hypomagnesemia."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Pseudogout crystal analysis",
+    "back": "Rhomboid-shaped, positively birefringent calcium pyrophosphate crystals, the opposite pattern from gout; radiographs may show chondrocalcinosis."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Septic arthritis rule-out",
+    "back": "A hot, swollen, febrile joint always requires arthrocentesis with Gram stain and culture, since septic arthritis can mimic gout or an inflammatory flare and can coexist with crystal disease."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Osteoporosis screening",
+    "back": "Dual-energy x-ray absorptiometry is recommended for all women starting at age 65, and earlier for younger postmenopausal women or men with significant risk factors."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "T-score interpretation",
+    "back": "A T-score of negative 2.5 or lower at the hip or spine defines osteoporosis; a T-score between negative 1.0 and negative 2.5 defines osteopenia."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Bisphosphonate use",
+    "back": "Take on an empty stomach with a full glass of water and remain upright for 30 minutes; long-term use carries a small risk of atypical femoral fractures and osteonecrosis of the jaw."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Denosumab discontinuation risk",
+    "back": "Abruptly stopping denosumab can cause a rebound increase in fracture risk, so transition to another antiresorptive agent is typically recommended."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Low back pain red flags",
+    "back": "Age over 50 with new onset pain, cancer history, unexplained weight loss, fever, intravenous drug use, prolonged corticosteroid use, trauma, and progressive neurologic deficit all warrant further evaluation."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Cauda equina syndrome",
+    "back": "Saddle anesthesia, bilateral leg weakness, and urinary retention with overflow incontinence; requires emergent MRI and surgical decompression."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Sciatica and straight leg raise",
+    "back": "A positive straight leg raise test reproduces radicular pain below the knee at 30 to 70 degrees of elevation, supporting a herniated disc at L4-L5 or L5-S1."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "L5 versus S1 radiculopathy",
+    "back": "L5 radiculopathy causes weakness of great toe and foot dorsiflexion; S1 radiculopathy causes a diminished or absent ankle reflex."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Cellulitis versus erysipelas",
+    "back": "Cellulitis produces poorly demarcated erythema and warmth; erysipelas, classically from Streptococcus pyogenes, has sharply demarcated, raised borders."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Necrotizing fasciitis warning signs",
+    "back": "Pain out of proportion to visible findings, rapid progression, bullae, crepitus, and systemic toxicity should prompt emergent surgical consultation, since debridement is both diagnostic and therapeutic."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Psoriasis",
+    "back": "Well-demarcated, erythematous plaques with thick silvery scale over extensor surfaces; the Auspitz sign is pinpoint bleeding when a scale is removed."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Psoriasis nail changes",
+    "back": "Pitting, onycholysis, and oil-drop discoloration are common and can precede the development of psoriatic arthritis."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Atopic dermatitis",
+    "back": "A chronic, pruritic condition associated with the atopic triad of asthma, allergic rhinitis, and eczema; favors flexural creases in older children and adults."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Basal cell carcinoma",
+    "back": "The most common skin cancer, presenting as a pearly, translucent papule with rolled, telangiectatic borders; grows slowly and rarely metastasizes."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Squamous cell carcinoma",
+    "back": "Arises from actinic keratosis, presenting as a firm, scaly, hyperkeratotic papule that may ulcerate; carries a modest metastatic risk, higher on the lip or ear."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Melanoma ABCDE criteria",
+    "back": "Asymmetry, Border irregularity, Color variation, Diameter greater than 6 millimeters, and Evolution over time are warning signs requiring biopsy."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Melanoma biopsy technique",
+    "back": "Full-thickness excisional biopsy, not shave biopsy, is required to accurately measure Breslow depth, the single most important prognostic factor."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Burn classification",
+    "back": "Superficial burns involve only the epidermis. Superficial partial-thickness burns blister and are painful. Deep partial-thickness burns are pale or mottled with decreased sensation. Full-thickness burns are painless, leathery, and white or charred since nerve endings are destroyed."
+  },
+  {
+    "domain": "musculoskeletal_system_and_skin",
+    "front": "Parkland formula",
+    "back": "Total 24-hour fluid volume equals 4 mL times body weight in kilograms times percent total body surface area burned, with half given in the first 8 hours."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What are the 8 SIG E CAPS symptoms of major depressive disorder, and how many total criteria are required for diagnosis?",
+    "back": "Sleep change, Interest loss, Guilt/worthlessness, Energy loss, Concentration difficulty, Appetite/weight change, Psychomotor change, and Suicidal ideation. Depressed mood is a separate ninth criterion. At least 5 of these 9 total criteria are required for at least 2 weeks, and at least one must be depressed mood or anhedonia."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What is the classic triad of serotonin syndrome and its most common precipitant?",
+    "back": "Altered mental status, autonomic instability (fever, tachycardia, diaphoresis), and neuromuscular findings (hyperreflexia, clonus, worse in the lower extremities). It is most often precipitated by combining two serotonergic drugs, such as an SSRI with an MAOI, tramadol, or linezolid."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "How is bipolar I disorder distinguished from bipolar II disorder?",
+    "back": "Bipolar I requires only one full manic episode (at least 1 week, marked impairment or hospitalization). Bipolar II requires a hypomanic episode (at least 4 days, no marked impairment) plus at least one major depressive episode."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "Why should SSRIs generally be avoided as monotherapy in bipolar depression?",
+    "back": "An antidepressant given without a mood stabilizer or antipsychotic can precipitate a manic or hypomanic switch. Mood stabilizers (lithium, valproate, lamotrigine) or atypical antipsychotics are preferred first."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What labs should be monitored regularly in a patient on lithium, and what worsens lithium clearance?",
+    "back": "Renal function, thyroid function, and serum lithium level should be monitored regularly. Dehydration, NSAIDs, ACE inhibitors, and thiazide diuretics all reduce renal lithium clearance and raise toxicity risk."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What is the major teratogenic risk of valproate, and what lab requires monitoring?",
+    "back": "Valproate causes neural tube defects and is generally avoided in women of childbearing potential when possible. Liver function tests should be monitored because of hepatotoxicity risk."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "Why must lamotrigine be titrated slowly?",
+    "back": "Rapid dose escalation increases the risk of Stevens-Johnson syndrome, a severe and potentially life-threatening skin reaction."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What are the diagnostic criteria for generalized anxiety disorder?",
+    "back": "Excessive, hard-to-control worry about multiple life domains for at least 6 months, with at least 3 of 6 associated symptoms: restlessness, fatigue, poor concentration, irritability, muscle tension, and sleep disturbance."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What defines panic disorder, as opposed to an isolated panic attack?",
+    "back": "Recurrent unexpected panic attacks (abrupt fear peaking within minutes with palpitations, sweating, and doom) plus at least 1 month of persistent worry about future attacks or avoidance behavior to prevent them."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What is first-line treatment across the anxiety disorders, and what role do benzodiazepines play?",
+    "back": "Cognitive behavioral therapy combined with an SSRI or SNRI is first-line. Benzodiazepines can relieve acute anxiety quickly but are not first-line for chronic management because of dependence, sedation, and fall risk."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What is buspirone's key advantage and key limitation as an anxiolytic?",
+    "back": "It is non-sedating and lacks abuse potential, but it takes weeks to become effective and has no role in acute panic relief."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "How long must symptoms persist to distinguish acute stress disorder from PTSD?",
+    "back": "Acute stress disorder lasts between 3 days and 1 month after the trauma. If the same symptom pattern persists beyond 1 month, the diagnosis becomes PTSD."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What is the minimum symptom duration to diagnose schizophrenia, and how does this differ from schizophreniform disorder and brief psychotic disorder?",
+    "back": "Schizophrenia requires at least 6 months of continuous disturbance. Schizophreniform disorder is the same symptom picture lasting 1 to 6 months. Brief psychotic disorder lasts less than 1 month."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "How is schizoaffective disorder distinguished from a mood disorder with psychotic features?",
+    "back": "Schizoaffective disorder requires at least 2 weeks of delusions or hallucinations in the absence of a mood episode at some point. In mood disorder with psychotic features, psychosis occurs only during mood episodes."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "List the timeline of antipsychotic-induced movement side effects from earliest to latest.",
+    "back": "Acute dystonia (hours to days), akathisia (days to weeks), parkinsonism (weeks), and tardive dyskinesia (months to years), which may be irreversible."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What is the treatment for acute dystonia versus akathisia?",
+    "back": "Acute dystonia is treated with an anticholinergic such as benztropine or diphenhydramine. Akathisia is treated by lowering the antipsychotic dose or adding a beta-blocker or benzodiazepine."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What is the tetrad of neuroleptic malignant syndrome and its treatment?",
+    "back": "Fever, lead-pipe rigidity, autonomic instability, and altered mental status, with markedly elevated creatine kinase. Treatment is immediate antipsychotic discontinuation, supportive cooling, and dantrolene or bromocriptine for severe cases."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "Why is clozapine reserved for treatment-resistant schizophrenia, and what monitoring does it require?",
+    "back": "It carries a risk of agranulocytosis, so it is used only after failure of at least two adequate antipsychotic trials and requires mandatory regular absolute neutrophil count monitoring."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What are the defining features of borderline personality disorder?",
+    "back": "Instability of relationships, self-image, and affect; marked impulsivity; chronic emptiness; recurrent suicidal or self-harm behavior; and an intense fear of abandonment. First-line treatment is dialectical behavior therapy."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "How does schizoid personality disorder differ from avoidant personality disorder?",
+    "back": "Schizoid personality disorder involves preference for solitude with no distress about isolation. Avoidant personality disorder involves social inhibition driven by fear of criticism and feelings of inadequacy, with the person wanting connection but avoiding it out of fear."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What are the three DSM-5-style personality disorder clusters, with one example disorder each?",
+    "back": "Cluster A, odd/eccentric (e.g., paranoid); Cluster B, dramatic/emotional/erratic (e.g., borderline); Cluster C, anxious/fearful (e.g., avoidant)."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What is the timeline for alcohol withdrawal seizures versus delirium tremens?",
+    "back": "Withdrawal seizures can occur 12 to 48 hours after the last drink. Delirium tremens, the most severe form, occurs 48 to 96 hours after the last drink."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "Why is thiamine given before glucose in a patient with suspected alcohol withdrawal?",
+    "back": "Giving glucose first in a thiamine-deficient patient can precipitate or worsen Wernicke encephalopathy by consuming remaining thiamine stores during glucose metabolism."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What is the classic triad of Wernicke encephalopathy?",
+    "back": "Confusion, ataxia, and ophthalmoplegia (gaze palsy), classically in a chronically alcohol-dependent, malnourished patient."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What happens when naloxone is given to an opioid-dependent patient, and what are the symptoms produced?",
+    "back": "It can precipitate acute opioid withdrawal: dilated pupils, yawning, rhinorrhea, lacrimation, piloerection, myalgias, abdominal cramping, and diarrhea. It should be titrated carefully in dependent patients."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "Why should benzodiazepines never be stopped abruptly after long-term use?",
+    "back": "Abrupt discontinuation can precipitate a withdrawal syndrome resembling alcohol withdrawal, including seizure risk. A gradual taper, sometimes with substitution of a longer-acting agent, is required."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What is the key difference between malingering and factitious disorder?",
+    "back": "Malingering involves conscious symptom fabrication for a clear external incentive (financial gain, avoiding work, obtaining opioids). Factitious disorder involves conscious falsification with no external incentive, motivated by a wish to assume the sick role itself."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "How does conversion disorder differ from somatic symptom disorder?",
+    "back": "Conversion disorder involves specific neurological symptoms incompatible with recognized neurological disease, often following a stressor. Somatic symptom disorder involves distressing somatic symptoms of any kind paired with excessive worry, thoughts, or behavior about them for over 6 months."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What electrolyte and cardiac complication defines refeeding syndrome, and how is it prevented?",
+    "back": "An insulin surge from reintroduced nutrition drives phosphate, potassium, and magnesium into cells, causing hypophosphatemia that can lead to cardiac and respiratory failure. It is prevented by advancing calories slowly with proactive electrolyte monitoring and repletion."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "How does bulimia nervosa differ from anorexia nervosa, binge-eating/purging type?",
+    "back": "Bulimia nervosa occurs at a normal or above-normal body weight. Anorexia nervosa, even the binge-eating/purging subtype, requires a significantly low body weight."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What is the single strongest risk factor for completed suicide?",
+    "back": "A prior suicide attempt is the single strongest predictor of a future completed suicide."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What is the Tarasoff principle, and when does it apply?",
+    "back": "When a patient makes a credible, specific threat toward an identifiable person, the clinician has a duty to warn or protect that person and notify appropriate authorities, overriding usual confidentiality."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "How is catatonia treated, and what confirms the diagnosis?",
+    "back": "A benzodiazepine trial, commonly lorazepam, is first-line and is also diagnostic when it produces rapid improvement. Electroconvulsive therapy is used for benzodiazepine-refractory catatonia."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What key features distinguish delirium from dementia?",
+    "back": "Delirium has an acute onset, a fluctuating course, and impaired attention, usually from an underlying medical cause. Dementia has an insidious onset and a stable, progressive course, typically with attention preserved early on."
+  },
+  {
+    "domain": "behavioral_health_and_psychiatry",
+    "front": "What are the main indications for electroconvulsive therapy, and its main side effect?",
+    "back": "Severe or treatment-resistant depression, depression with psychotic features, catatonia, and situations needing rapid response (e.g., an actively suicidal or severely malnourished patient). Its main side effect is transient anterograde and retrograde memory impairment."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What is the classic iron study pattern (ferritin, iron, TIBC) in iron deficiency anemia versus anemia of chronic disease?",
+    "back": "Iron deficiency: low ferritin, low iron, high TIBC. Anemia of chronic disease: normal or high ferritin, low iron, low TIBC."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What is the next best step when an older adult presents with new, unexplained iron deficiency anemia?",
+    "back": "Colonoscopy (and often upper endoscopy) to evaluate for an occult gastrointestinal source of blood loss, including colorectal cancer."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What laboratory and smear findings distinguish thalassemia trait from iron deficiency anemia?",
+    "back": "Thalassemia trait has a normal iron panel, a normal RDW, and a normal or high red cell count for the degree of microcytosis, unlike iron deficiency."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What neurologic finding is unique to vitamin B12 deficiency and never seen with folate deficiency?",
+    "back": "Subacute combined degeneration of the spinal cord, involving both the dorsal columns and corticospinal tracts."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What smear finding confirms megaloblastic anemia regardless of whether the cause is B12 or folate deficiency?",
+    "back": "Hypersegmented neutrophils."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What is the most likely cause of a normocytic anemia with a low reticulocyte count in advanced chronic kidney disease?",
+    "back": "Reduced renal erythropoietin production."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What single test best distinguishes immune from nonimmune causes of hemolytic anemia?",
+    "back": "The direct antiglobulin (Coombs) test."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What antibody class and clinical trigger characterize warm autoimmune hemolytic anemia versus cold agglutinin disease?",
+    "back": "Warm AIHA is IgG-mediated and associated with lymphoproliferative disease or lupus. Cold agglutinin disease is IgM-mediated and triggered by cold exposure, often after Mycoplasma pneumoniae infection."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What peripheral smear finding is classic for hereditary spherocytosis, and what is the definitive treatment for severe disease?",
+    "back": "Spherocytes on smear (with a positive osmotic fragility test); splenectomy is the definitive treatment."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What enzyme is deficient in G6PD deficiency, and what smear findings result from an oxidative trigger?",
+    "back": "Glucose-6-phosphate dehydrogenase; bite cells and Heinz bodies appear after oxidative stress from infection, sulfa drugs, or fava beans."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What four conditions classically cause microangiopathic hemolytic anemia with schistocytes on smear?",
+    "back": "Thrombotic thrombocytopenic purpura, hemolytic uremic syndrome, disseminated intravascular coagulation, and mechanical heart valves."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What surface proteins are lost in paroxysmal nocturnal hemoglobinuria, and what unusual thrombosis site is classic for this disease?",
+    "back": "CD55 and CD59; hepatic vein (Budd-Chiari) thrombosis is a classic unusual-site clot."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What smear and functional finding reflects functional asplenia in sickle cell disease?",
+    "back": "Howell-Jolly bodies on smear, reflecting loss of splenic clearance function from repeated splenic infarction."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What cytogenetic abnormality and cellular finding define acute promyelocytic leukemia, and why is it a hematologic emergency?",
+    "back": "The t(15;17) translocation with Auer rods on smear; it can trigger disseminated intravascular coagulation at presentation and is treated urgently with all-trans retinoic acid."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What is the Philadelphia chromosome, and what drug class targets the protein it produces?",
+    "back": "The t(9;22) translocation producing the BCR-ABL fusion protein, targeted by tyrosine kinase inhibitors such as imatinib in chronic myeloid leukemia."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What peripheral smear finding is classic for chronic lymphocytic leukemia?",
+    "back": "Smudge cells, from fragile malignant lymphocytes damaged during slide preparation."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What is the diagnostic cell of Hodgkin lymphoma, and what is its characteristic appearance?",
+    "back": "The Reed-Sternberg cell, a large binucleate cell with an owl-eye appearance."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What translocation and oncogene drive Burkitt lymphoma, and what is its classic histologic appearance?",
+    "back": "The t(8;14) translocation activating c-myc; a starry sky pattern of tingible body macrophages among rapidly dividing lymphoid cells."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What translocation and gene are implicated in follicular lymphoma, and what does this gene normally do?",
+    "back": "The t(14;18) translocation causing BCL-2 overexpression; BCL-2 normally inhibits apoptosis, so its overexpression lets malignant cells evade cell death."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What is the classic mnemonic for the clinical features of multiple myeloma, and what causes its renal impairment?",
+    "back": "CRAB: hypercalcemia, renal failure, anemia, bone lesions; renal impairment comes from filtered free light chains causing cast nephropathy, compounded by hypercalcemia."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What mutation drives most cases of polycythemia vera, and what is its main clinical risk?",
+    "back": "A JAK2 mutation; the main risk is arterial and venous thrombosis from increased blood viscosity."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What smear finding and marrow finding characterize primary myelofibrosis?",
+    "back": "A leukoerythroblastic smear with teardrop cells; a dry tap on marrow aspiration due to extensive fibrosis."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "How do PT and aPTT localize a bleeding disorder to primary versus secondary hemostasis?",
+    "back": "Mucocutaneous bleeding with a normal PT/aPTT suggests primary hemostasis (platelets, von Willebrand factor); deep bleeding into joints with a prolonged PT and/or aPTT suggests a factor deficiency in secondary hemostasis."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "Why can von Willebrand disease prolong the aPTT even though it is a primary hemostasis disorder?",
+    "back": "Von Willebrand factor stabilizes circulating factor VIII, so its deficiency can secondarily lower factor VIII and prolong the aPTT."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What is the inheritance pattern of hemophilia A and B, and what coagulation study is prolonged?",
+    "back": "X-linked recessive; the aPTT is prolonged while the PT stays normal."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What four laboratory findings define disseminated intravascular coagulation?",
+    "back": "Prolonged PT and aPTT, low platelets, low fibrinogen, and elevated D-dimer."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "Why does antiphospholipid antibody syndrome prolong the aPTT in vitro despite causing thrombosis in vivo?",
+    "back": "The antiphospholipid antibodies interfere with the phospholipid-dependent reagent used in the aPTT assay, a laboratory artifact unrelated to the true prothrombotic clinical picture."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "Why must warfarin be started with an overlapping heparin bridge in a patient with protein C or S deficiency?",
+    "back": "Protein C and S are vitamin K-dependent anticoagulants with shorter half-lives than the procoagulant factors, so warfarin alone can transiently worsen hypercoagulability and cause skin necrosis."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What is the immediate first step in managing a suspected acute hemolytic transfusion reaction?",
+    "back": "Stop the transfusion immediately, then provide aggressive intravenous fluid resuscitation."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What distinguishes transfusion-related acute lung injury from transfusion-associated circulatory overload?",
+    "back": "TRALI causes hypotension with noncardiogenic pulmonary edema from donor antibody-mediated neutrophil activation; TACO causes hypertension and volume overload from excessive transfusion volume or rate."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "Which patients are at risk for anaphylactic transfusion reactions, and how are future reactions prevented?",
+    "back": "Patients with selective IgA deficiency who have anti-IgA antibodies; future transfusions use washed blood products with plasma proteins removed."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What CD4 thresholds trigger prophylaxis against Pneumocystis jirovecii, Toxoplasma gondii, and Mycobacterium avium complex?",
+    "back": "Below 200 for Pneumocystis jirovecii, below 100 for Toxoplasma gondii, and below 50 for Mycobacterium avium complex."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What immune defect explains recurrent Neisseria infections with normal immunoglobulin levels?",
+    "back": "A deficiency of a terminal complement component, C5 through C9, which impairs membrane attack complex formation."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What defect underlies chronic granulomatous disease, and how is it diagnosed?",
+    "back": "A defective neutrophil NADPH oxidase impairing the oxidative burst, causing recurrent infection with catalase-positive organisms; diagnosed with an abnormal nitroblue tetrazolium or dihydrorhodamine test."
+  },
+  {
+    "domain": "blood_lymphoreticular_and_immune_systems",
+    "front": "What are the four types of hypersensitivity reactions and one classic example of each?",
+    "back": "Type I: IgE-mediated, anaphylaxis. Type II: antibody-mediated cytotoxicity, Goodpasture syndrome. Type III: immune complex-mediated, serum sickness. Type IV: delayed T cell-mediated, contact dermatitis."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What alarm features mandate upper endoscopy before empiric PPI therapy in a patient with reflux symptoms?",
+    "back": "Dysphagia, odynophagia, unintentional weight loss, GI bleeding or anemia, and age over 60 at symptom onset."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What is Barrett esophagus and what does it increase the risk of?",
+    "back": "Intestinal metaplasia (columnar epithelium with goblet cells) of the distal esophagus from chronic reflux, which increases the risk of esophageal adenocarcinoma."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "Why do duodenal ulcers not require routine follow-up endoscopy while gastric ulcers do?",
+    "back": "Duodenal ulcers are almost never malignant, but gastric ulcers can look identical to malignancy at initial inspection, so repeat endoscopy in six to eight weeks is required to confirm healing and exclude cancer."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What findings suggest Zollinger-Ellison syndrome in a patient with peptic ulcer disease?",
+    "back": "Multiple, refractory, or unusually distal ulcers with chronic diarrhea and a markedly elevated fasting serum gastrin level, from a gastrin-secreting tumor."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "Why does an upper GI bleed raise BUN out of proportion to creatinine?",
+    "back": "Blood protein sitting in the small bowel is digested and its nitrogen is absorbed, raising BUN while creatinine stays relatively unchanged."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What empiric therapy should be started before endoscopy in suspected variceal hemorrhage?",
+    "back": "Intravenous octreotide to reduce splanchnic blood flow and an antibiotic such as ceftriaxone to reduce the risk of spontaneous bacterial peritonitis and rebleeding."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What is the preferred endoscopic technique for actively bleeding esophageal varices?",
+    "back": "Band ligation, which has replaced sclerotherapy as first-line therapy due to a lower complication rate."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "When is TIPS indicated in variceal bleeding?",
+    "back": "When bleeding continues or recurs despite adequate endoscopic therapy, TIPS decompresses the portal system."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What is Heyde syndrome?",
+    "back": "The association of aortic stenosis with bleeding colonic angiodysplasia, thought to result from acquired von Willebrand factor deficiency caused by shear stress across the stenotic valve."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What is the classic anatomic and histologic difference between Crohn disease and ulcerative colitis?",
+    "back": "Crohn disease can affect any part of the GI tract with skip lesions and transmural inflammation with granulomas; ulcerative colitis is continuous from the rectum proximally, limited to the colon, with mucosal and submucosal inflammation and no granulomas."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "Which extraintestinal manifestation of IBD is specifically linked to ulcerative colitis and tends to track independently of bowel disease activity?",
+    "back": "Primary sclerosing cholangitis."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "Why is 5-aminosalicylate therapy less useful in Crohn disease than in ulcerative colitis?",
+    "back": "5-ASA agents have limited efficacy in Crohn disease, so Crohn disease often requires escalation to corticosteroids, immunomodulators, or biologics instead."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "When is surgery curative in IBD, and when is it not?",
+    "back": "Total colectomy is curative for ulcerative colitis since disease is confined to the colon. Surgery in Crohn disease treats complications like strictures or fistulas but is not curative since disease can recur anywhere in the GI tract."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "When should colorectal cancer surveillance begin in long-standing IBD?",
+    "back": "Approximately eight to ten years after diagnosis, given rising colorectal cancer risk with duration and extent of colonic involvement."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "How do you interpret hepatitis B surface antigen positive with surface antibody negative?",
+    "back": "This indicates active infection, whether acute or chronic, since surface antigen reflects ongoing viral presence."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "How do you distinguish vaccination from resolved natural hepatitis B infection serologically?",
+    "back": "Vaccination produces surface antibody positivity with a negative core antibody. Resolved natural infection produces both surface antibody and core antibody positivity."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "Who should be treated for chronic hepatitis C infection?",
+    "back": "Essentially all patients with chronic hepatitis C regardless of fibrosis stage, using direct acting antiviral therapy."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What AST to ALT pattern suggests alcoholic hepatitis?",
+    "back": "An AST to ALT ratio greater than 2, distinct from most other causes of transaminase elevation where ALT typically exceeds AST."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What five variables make up the Child-Pugh classification?",
+    "back": "Bilirubin, albumin, INR, ascites, and hepatic encephalopathy, used to stratify cirrhosis severity and estimate surgical risk."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What is the MELD score used for?",
+    "back": "Prioritizing patients for liver transplantation, calculated from bilirubin, creatinine, and INR."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "How is the serum-ascites albumin gradient interpreted?",
+    "back": "A gradient of 1.1 g/dL or greater indicates a portal hypertensive cause such as cirrhosis; a gradient below 1.1 g/dL suggests another cause such as peritoneal carcinomatosis."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What ascitic fluid neutrophil count diagnoses spontaneous bacterial peritonitis, and what is added to antibiotics in high-risk patients?",
+    "back": "An absolute neutrophil count of 250 cells/mm3 or higher. Albumin infusion is added in patients with significant renal or liver dysfunction to reduce hepatorenal syndrome risk."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What is the mechanism and first-line treatment of hepatic encephalopathy?",
+    "back": "Accumulation of gut-derived ammonia the cirrhotic liver cannot clear; first-line treatment is lactulose, which acidifies the colon and traps ammonia as ammonium for excretion."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What are the diagnostic criteria for acute pancreatitis?",
+    "back": "At least 2 of 3: characteristic epigastric pain radiating to the back, lipase or amylase at least 3 times the upper limit of normal, and characteristic findings on imaging. Not all three are required."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "Why is early enteral feeding preferred over prolonged bowel rest in acute pancreatitis?",
+    "back": "Early oral or enteral nutrition as tolerated improves outcomes compared to prolonged fasting and parenteral nutrition."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What distinguishes biliary colic from acute cholecystitis?",
+    "back": "Biliary colic is transient pain from temporary cystic duct obstruction that resolves completely without inflammation. Acute cholecystitis is persistent obstruction with gallbladder wall inflammation, fever, and a positive Murphy sign."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What is the Charcot triad and the Reynolds pentad?",
+    "back": "Charcot triad is fever, jaundice, and right upper quadrant pain, seen in ascending cholangitis. Reynolds pentad adds hypotension and altered mental status, indicating more severe cholangitis."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What is acalculous cholecystitis and who is at risk?",
+    "back": "Gallbladder inflammation without gallstones, from bile stasis and ischemia, seen in critically ill patients with prolonged fasting or mechanical ventilation; carries a higher risk of gangrene and perforation."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What is the classic pain migration pattern of appendicitis?",
+    "back": "Periumbilical pain that migrates to the right lower quadrant over hours, with tenderness at McBurney point, anorexia, nausea, and low-grade fever."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "Why should colonoscopy be avoided during acute diverticulitis but performed six to eight weeks later?",
+    "back": "During the acute episode it carries a perforation risk; afterward it is used to exclude an underlying colorectal malignancy."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What is the most common cause of small bowel obstruction versus large bowel obstruction in adults?",
+    "back": "Small bowel obstruction is most often from adhesions after prior surgery. Large bowel obstruction is more often from colorectal malignancy, volvulus, or diverticular stricture."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "At what age should average-risk colorectal cancer screening begin, and what modalities are accepted?",
+    "back": "Age 45, using colonoscopy every ten years, annual stool-based testing such as FIT, or CT colonography at an appropriate interval."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "When should colorectal cancer screening begin in a patient with a first-degree relative diagnosed before age 60?",
+    "back": "At age 40 or ten years before the relative's age at diagnosis, whichever comes first."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "What is the preferred initial serologic test for celiac disease and why must total IgA also be checked?",
+    "back": "IgA tissue transglutaminase antibody; total IgA is checked because selective IgA deficiency causes a false negative tissue transglutaminase result."
+  },
+  {
+    "domain": "gastrointestinal_system",
+    "front": "Why should gluten not be stopped before duodenal biopsy for suspected celiac disease?",
+    "back": "Early gluten avoidance can normalize both serology and villous histology, producing a false negative biopsy and obscuring the diagnosis."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "What is the first imaging test in any patient with acute focal neurologic deficits?",
+    "back": "Noncontrast head CT, to rapidly exclude hemorrhage before considering thrombolysis or thrombectomy."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Middle cerebral artery stroke: which body parts are most affected?",
+    "back": "Contralateral face and arm weakness greater than leg weakness, plus aphasia (dominant hemisphere) or neglect (nondominant hemisphere)."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Anterior cerebral artery stroke: which body part is most affected?",
+    "back": "Contralateral leg weakness greater than arm weakness, since the leg motor cortex is on the medial surface supplied by this artery."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Posterior cerebral artery stroke: classic visual finding?",
+    "back": "Contralateral homonymous hemianopia with macular sparing."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "What is the IV thrombolysis time window for acute ischemic stroke?",
+    "back": "Within 4.5 hours of clearly known symptom onset, if no contraindications are present."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Classic CT finding and cause of a basal ganglia intracerebral hemorrhage?",
+    "back": "Hyperdense lesion on noncontrast CT, most often from chronic hypertension damaging small penetrating vessels."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Subarachnoid hemorrhage: classic history and confirmatory test if CT is negative?",
+    "back": "Thunderclap headache reaching maximum intensity within seconds; if CT is negative, lumbar puncture looking for xanthochromia."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "What is the most feared delayed complication of subarachnoid hemorrhage, and when does it occur?",
+    "back": "Cerebral vasospasm, typically 3 to 14 days after the bleed, treated or prevented with nimodipine."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Glasgow Coma Scale components and the threshold for airway concern?",
+    "back": "Eye opening (4), verbal response (5), motor response (6); a total score of 8 or less generally prompts consideration of intubation."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Definition of a transient ischemic attack (TIA)?",
+    "back": "Focal neurologic deficits that resolve completely, typically within an hour, with no infarct on imaging."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Diagnostic criteria for epilepsy after a first seizure?",
+    "back": "Two unprovoked seizures more than 24 hours apart, or one unprovoked seizure with a high recurrence risk on imaging or EEG."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Which antiepileptic drugs are broad spectrum, effective for both focal and generalized seizures?",
+    "back": "Levetiracetam and valproic acid."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Why is valproic acid generally avoided in women of childbearing potential?",
+    "back": "High risk of neural tube defects and other major fetal malformations."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Definition of status epilepticus and first line treatment?",
+    "back": "A single seizure lasting 5 minutes or more, or recurrent seizures without recovery between them; first line treatment is a benzodiazepine."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Classic cerebrospinal fluid finding of albuminocytologic dissociation is seen in which disease?",
+    "back": "Guillain-Barre syndrome (elevated protein with a normal white blood cell count)."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "What distinguishes psychogenic nonepileptic seizures from true epileptic seizures?",
+    "back": "Asynchronous thrashing, pelvic thrusting, forced eye closure, waxing and waning course, and a normal EEG during the event."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Migraine diagnostic features?",
+    "back": "Unilateral, pulsatile headache lasting 4 to 72 hours with nausea, photophobia, phonophobia, and worsening with activity."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Cluster headache: classic presentation and acute treatment?",
+    "back": "Severe unilateral periorbital pain lasting 15 minutes to 3 hours with ipsilateral autonomic features; treated acutely with high flow oxygen or a triptan."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "What does the SNOOP mnemonic screen for in headache patients?",
+    "back": "Red flags for secondary headache: Systemic symptoms, Neurologic signs, Onset sudden (thunderclap), Older age of onset, Pattern change/progressive."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Headache red flag suggesting giant cell arteritis, and the urgent treatment?",
+    "back": "New headache after age 50 with jaw claudication and visual symptoms; treat with empiric high dose glucocorticoids immediately to prevent vision loss."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Idiopathic intracranial hypertension: typical patient and treatment?",
+    "back": "Obese woman of childbearing age with headache, papilledema, and normal imaging aside from possibly an empty sella; treated with acetazolamide and weight loss."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Delirium vs dementia: onset and course?",
+    "back": "Delirium: acute onset (hours to days), fluctuating course, core deficit in attention. Dementia: insidious onset (months to years), stable course, core deficit in memory."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Alzheimer disease: earliest and most prominent feature, and classic imaging finding?",
+    "back": "Short-term memory loss first, followed by language and visuospatial impairment; imaging shows cortical atrophy with hippocampal predominance."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Lewy body dementia: core triad and a key management caution?",
+    "back": "Fluctuating cognition, visual hallucinations, and parkinsonism; avoid antipsychotics because of severe sensitivity reactions."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Normal pressure hydrocephalus: classic triad and a test that predicts shunt response?",
+    "back": "Gait disturbance, urinary incontinence, and cognitive decline; gait improvement after large volume lumbar puncture predicts response to shunting."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Multiple sclerosis: core diagnostic concept and a classic exam finding?",
+    "back": "Lesions separated in time and space; internuclear ophthalmoplegia (impaired adduction with contralateral abducting nystagmus) is a classic finding."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Myasthenia gravis: mechanism, hallmark clinical pattern, and confirmatory antibody?",
+    "back": "Autoantibodies against postsynaptic acetylcholine receptors; fatigable weakness worse with use and better with rest, starting with ptosis/diplopia; confirmed with acetylcholine receptor antibodies."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Guillain-Barre syndrome: typical trigger, pattern of weakness, and the most dangerous complication?",
+    "back": "Follows an infection (classically Campylobacter jejuni) by 1 to 3 weeks; ascending, symmetric weakness with areflexia; the most dangerous complication is respiratory failure."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Most common cause of peripheral neuropathy in the outpatient setting, and its typical pattern?",
+    "back": "Diabetes mellitus; symmetric, distal, sensory-predominant polyneuropathy in a stocking-glove distribution."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Bacterial meningitis: classic cerebrospinal fluid pattern and empiric adult treatment?",
+    "back": "Neutrophil-predominant pleocytosis, low glucose, high protein; empiric treatment is vancomycin plus a third generation cephalosporin, plus ampicillin if Listeria risk factors are present."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Adjunctive medication in bacterial meningitis that reduces neurologic complications, and its timing?",
+    "back": "Dexamethasone, given with or just before the first antibiotic dose."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Herpes simplex encephalitis: classic imaging finding and urgent treatment?",
+    "back": "Temporal lobe edema/signal change on MRI; start empiric intravenous acyclovir immediately once suspected."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Acute angle closure glaucoma: classic exam findings and urgent treatment?",
+    "back": "Fixed, mid-dilated pupil, firm globe, halos around lights, severe pain; treat urgently with pressure-lowering agents followed by laser peripheral iridotomy."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Retinal detachment: classic symptoms and urgency of referral?",
+    "back": "Sudden floaters, flashes of light, and a curtain-like visual field defect; a surgical emergency requiring urgent ophthalmology referral."
+  },
+  {
+    "domain": "nervous_system_and_special_senses",
+    "front": "Weber and Rinne test findings in conductive vs sensorineural hearing loss?",
+    "back": "Conductive: Weber lateralizes to the affected ear, bone conduction better than air conduction on Rinne in that ear. Sensorineural: Weber lateralizes to the better ear, normal Rinne pattern (air better than bone) in both ears."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What spirometry finding confirms reversible airflow obstruction in asthma?",
+    "back": "An FEV1/FVC ratio that improves by at least 12 percent and 200 mL after bronchodilator administration."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "Why should a long-acting beta agonist never be used as monotherapy in asthma?",
+    "back": "Without a concurrent inhaled corticosteroid it can mask worsening airway inflammation and increases the risk of severe exacerbation and death."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "In a tachypneic asthmatic, why is a rising or normalizing PaCO2 an ominous sign rather than reassuring?",
+    "back": "It indicates the patient can no longer sustain the hyperventilation that had been driving CO2 down, signaling impending respiratory muscle fatigue and failure."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What spirometry value defines COPD?",
+    "back": "A postbronchodilator FEV1/FVC ratio below 0.70 that does not normalize with bronchodilator use."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What is the only intervention proven to slow disease progression and reduce mortality in COPD?",
+    "back": "Smoking cessation."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What are the thresholds for prescribing long-term home oxygen in stable COPD?",
+    "back": "Resting PaO2 at or below 55 mmHg, or oxygen saturation at or below 88 percent, or PaO2 at or below 59 mmHg with cor pulmonale or polycythemia."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What is first-line respiratory support for a COPD exacerbation with respiratory acidosis in a patient who can protect the airway?",
+    "back": "Noninvasive positive pressure ventilation (BiPAP), which reduces work of breathing and often avoids intubation."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What condition should be suspected in a young or nonsmoking patient with lower lobe predominant panacinar emphysema?",
+    "back": "Alpha-1 antitrypsin deficiency; check a serum alpha-1 antitrypsin level."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What is the empiric outpatient antibiotic choice for a previously healthy patient with community-acquired pneumonia and no comorbidities?",
+    "back": "Amoxicillin or a macrolide."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What five criteria make up the CURB-65 score for pneumonia severity?",
+    "back": "Confusion, urea (BUN) elevation, respiratory rate at or above 30, blood pressure below 90 systolic or 60 diastolic, and age 65 or older; a score of 2 or more supports admission."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What clinical clues suggest Legionella pneumonia, and how is it diagnosed?",
+    "back": "High fever with relative bradycardia, GI symptoms, confusion, and hyponatremia; diagnosed with a urinary antigen test."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "Why does Legionella pneumonia not respond to beta-lactam antibiotics?",
+    "back": "Legionella is an intracellular organism, and beta-lactams, which target cell wall synthesis, do not achieve adequate intracellular concentrations; macrolides or fluoroquinolones are used instead."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "Why does aspiration pneumonia characteristically affect the right lower lobe?",
+    "back": "The right mainstem bronchus is more vertical and more in line with the trachea than the left, directing aspirated material there preferentially."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What organisms should be empirically covered in hospital-acquired or ventilator-associated pneumonia?",
+    "back": "Pseudomonas aeruginosa and other resistant gram-negative rods, plus MRSA coverage (vancomycin or linezolid) when risk factors are present."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What are Light's criteria for an exudative pleural effusion?",
+    "back": "Pleural fluid to serum protein ratio above 0.5, pleural fluid to serum LDH ratio above 0.6, or pleural fluid LDH above two-thirds the upper limit of normal serum LDH; meeting any one criterion classifies the effusion as exudative."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What pleural fluid findings in a parapneumonic effusion mandate chest tube drainage rather than antibiotics alone?",
+    "back": "pH below 7.2, glucose below 60, a positive Gram stain, or frank pus (empyema)."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "In a patient with low pretest probability for pulmonary embolism, what test can effectively exclude the diagnosis?",
+    "back": "A negative D-dimer; in moderate-to-high pretest probability, proceed directly to CT pulmonary angiography instead."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What is the imaging test of choice for suspected PE in pregnancy, and why?",
+    "back": "Ventilation-perfusion (V/Q) scanning, because it delivers less radiation to radiosensitive breast tissue than CT pulmonary angiography."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What treatment should be considered in addition to anticoagulation for a hemodynamically unstable (massive) PE?",
+    "back": "Systemic thrombolysis or catheter-directed therapy to rapidly restore right ventricular function."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "When is an inferior vena cava filter indicated in venous thromboembolism?",
+    "back": "A contraindication to anticoagulation, or recurrent PE despite adequate, confirmed therapeutic anticoagulation."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What clinical findings define tension pneumothorax, and what is the immediate treatment?",
+    "back": "Tracheal deviation away from the affected side, hypotension, distended neck veins, and absent breath sounds unilaterally; treat with immediate needle decompression at the second intercostal space, midclavicular line, before imaging."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What paraneoplastic syndromes are classically associated with small cell lung cancer?",
+    "back": "SIADH, ectopic ACTH secretion causing Cushing syndrome, and Lambert-Eaton myasthenic syndrome."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "How does Lambert-Eaton myasthenic syndrome differ clinically from myasthenia gravis?",
+    "back": "Lambert-Eaton strength improves with repeated muscle use (presynaptic calcium channel antibodies), whereas myasthenia gravis worsens with repeated use (postsynaptic acetylcholine receptor antibodies)."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What mechanism causes hypercalcemia in squamous cell lung carcinoma?",
+    "back": "Tumor secretion of parathyroid hormone-related protein (PTHrP), which mimics PTH action while suppressing endogenous PTH."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What is a Pancoast tumor, and what syndrome does it cause?",
+    "back": "An apical lung tumor invading the brachial plexus (shoulder/arm pain) and sympathetic chain, causing Horner syndrome: ptosis, miosis, and anhidrosis."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What pulmonary nodule features suggest a benign process rather than malignancy?",
+    "back": "Small size, smooth margins, and central, popcorn, or laminated calcification patterns."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What pulmonary function pattern defines interstitial lung disease?",
+    "back": "A restrictive pattern: reduced FEV1 and FVC with a preserved or increased FEV1/FVC ratio, and a reduced DLCO."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What high resolution CT pattern and demographic are classic for idiopathic pulmonary fibrosis?",
+    "back": "Older men with a smoking history; usual interstitial pneumonia pattern with peripheral, basal predominant reticular changes and honeycombing."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What occupational exposure and radiographic pattern define silicosis, and what infection risk does it raise?",
+    "back": "Mining, sandblasting, or quarry work; upper lobe predominant nodules with eggshell calcification of hilar nodes; increased susceptibility to tuberculosis."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What occupational exposure and radiographic pattern define asbestosis, and what malignancies does it increase risk for?",
+    "back": "Shipbuilding, insulation, or construction work; lower lobe predominant fibrosis with pleural plaques; increased risk of mesothelioma and, especially with concurrent smoking, bronchogenic carcinoma."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What extrapulmonary findings and mechanism explain hypercalcemia in sarcoidosis?",
+    "back": "Erythema nodosum, uveitis, and hypercalcemia from unregulated conversion of vitamin D to its active form by macrophages within noncaseating granulomas."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "Why does reactivation tuberculosis characteristically involve the upper lung zones?",
+    "back": "Mycobacterium tuberculosis is an obligate aerobe, and the upper lobes have relatively higher oxygen tension and lower blood flow, favoring organism growth."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What adverse effects are classically linked to isoniazid, rifampin, ethambutol, and pyrazinamide in TB treatment?",
+    "back": "Isoniazid: peripheral neuropathy (prevented with pyridoxine) and hepatotoxicity. Rifampin: body fluid discoloration and CYP450 induction. Ethambutol: optic neuritis with red-green color blindness. Pyrazinamide: hepatotoxicity and hyperuricemia."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What apnea-hypopnea index (AHI) thresholds define mild, moderate, and severe obstructive sleep apnea, and what is first-line treatment?",
+    "back": "Mild 5-15, moderate 15-30, severe above 30 events per hour; continuous positive airway pressure (CPAP) is first-line treatment across severities."
+  },
+  {
+    "domain": "respiratory_system",
+    "front": "What are the Berlin criteria for ARDS, and what ventilator and positioning strategies reduce mortality?",
+    "back": "Onset within one week of a known insult, bilateral opacities not fully explained by effusion/collapse/nodules, and respiratory failure not fully explained by cardiac failure or fluid overload; low tidal volume ventilation (about 6 mL/kg predicted body weight) and prone positioning in moderate-to-severe disease reduce mortality."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What are the three components of the qSOFA score used to screen for possible sepsis at the bedside?",
+    "back": "Altered mentation, respiratory rate 22 or higher, and systolic blood pressure 100 mmHg or less. Two or more of these three findings in a patient with suspected infection should prompt closer monitoring."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "How is septic shock defined, distinct from sepsis alone?",
+    "back": "Sepsis with persistent hypotension requiring vasopressors to maintain a mean arterial pressure of 65 mmHg or higher, plus a serum lactate above 2 mmol/L, despite adequate fluid resuscitation."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What is the first-line vasopressor in septic shock, and why?",
+    "back": "Norepinephrine, because it provides balanced alpha and beta adrenergic support with a lower risk of tachyarrhythmia than dopamine, which is no longer preferred as first-line therapy."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What hemodynamic profile distinguishes septic (distributive) shock from cardiogenic shock?",
+    "back": "Septic shock shows a low systemic vascular resistance with a normal or elevated cardiac output, especially early on. Cardiogenic shock shows a low cardiac output with elevated filling pressures because the heart itself has failed as a pump."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What is the correct order of the ATLS primary survey?",
+    "back": "Airway with cervical spine protection, Breathing, Circulation with hemorrhage control, Disability (rapid neurologic check), and Exposure with environmental control (ABCDE), ordered by what kills a patient fastest."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What clinical findings define a tension pneumothorax, and what is the immediate treatment?",
+    "back": "Absent breath sounds on the affected side, tracheal deviation away from that side, distended neck veins, and hypotension. Treat immediately with needle decompression followed by tube thoracostomy, without waiting for imaging."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What are the three components of the lethal triad of trauma?",
+    "back": "Hypothermia, acidosis, and coagulopathy. Each of these three worsens the other two, creating a vicious cycle that must be actively interrupted with warming and appropriate resuscitation."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What is the modern balanced transfusion strategy for massive hemorrhage in trauma?",
+    "back": "Packed red blood cells, fresh frozen plasma, and platelets given in roughly equal ratios, rather than crystalloid-heavy resuscitation or red cells alone, to better replace lost components and reduce dilutional coagulopathy."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What are the physical findings of the cholinergic toxidrome, and what is the treatment?",
+    "back": "Salivation, lacrimation, urination, defecation, gastrointestinal distress, emesis, plus miosis and bradycardia (organophosphate poisoning). Treat with atropine for muscarinic symptoms and pralidoxime to reactivate acetylcholinesterase before it becomes permanently bound."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "How does the anticholinergic toxidrome differ from the sympathomimetic toxidrome, given that both cause tachycardia, hypertension, and mydriasis?",
+    "back": "Anticholinergic toxicity produces dry, flushed skin, while sympathomimetic toxicity (cocaine, amphetamines) produces diaphoresis (sweaty skin). This skin finding is the key distinguishing feature between the two toxidromes."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What is the antidote for acetaminophen overdose, and how does it work?",
+    "back": "N-acetylcysteine, which works by repleting glutathione stores that would otherwise be depleted, allowing accumulation of the toxic metabolite NAPQI, which causes centrilobular hepatocellular necrosis."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What acid-base pattern is classic for early salicylate toxicity?",
+    "back": "A mixed picture: an early respiratory alkalosis from direct stimulation of the medullary respiratory center, followed by an evolving anion gap metabolic acidosis as salicylate uncouples oxidative phosphorylation."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What is the antidote for methanol or ethylene glycol poisoning, and what does it do?",
+    "back": "Fomepizole, which blocks alcohol dehydrogenase and prevents formation of the toxic metabolites responsible for the acidosis and organ injury. Hemodialysis is added for severe toxicity."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What is the Revised Cardiac Risk Index used for, and what are its six factors?",
+    "back": "It estimates perioperative cardiac risk before noncardiac surgery. The six factors are high-risk surgery, ischemic heart disease, congestive heart failure, cerebrovascular disease, insulin-dependent diabetes, and a preoperative creatinine above 2 mg/dL."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "How should an established beta blocker be managed perioperatively, and why should a new one not be started acutely?",
+    "back": "Continue an existing beta blocker through surgery to avoid rebound tachycardia or ischemia. Do not start one acutely on the day of surgery, since new initiation has been linked to increased perioperative stroke and mortality."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What is the typical timing and differential for postoperative fever at each interval?",
+    "back": "Days 1-2: inflammatory response and possible atelectasis. Days 3-5: urinary tract infection. Days 5-7: surgical site infection or anastomotic leak. After day 7: deep venous thrombosis or drug fever."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What findings suggest necrotizing soft tissue infection rather than a routine wound infection?",
+    "back": "Rapidly spreading skin discoloration, bullae, crepitus, pain out of proportion to examination findings, and systemic toxicity. This is a surgical emergency requiring immediate operative debridement plus broad-spectrum antibiotics."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What serologic findings track disease activity in lupus nephritis flares, and why?",
+    "back": "A rising anti-double-stranded DNA antibody titer with falling C3 and C4 complement levels, because complement is being consumed by immune complex deposition in the glomeruli during active disease."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "Why should high-dose glucocorticoids be started immediately in suspected giant cell arteritis, without waiting for biopsy?",
+    "back": "Untreated giant cell arteritis risks permanent, irreversible blindness. Temporal artery biopsy findings can remain positive for one to two weeks after starting steroids, so treatment should never be delayed for confirmation."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "How do the three ANCA-associated small-vessel vasculitides differ from one another?",
+    "back": "Granulomatosis with polyangiitis affects the upper and lower respiratory tract plus kidneys with c-ANCA. Microscopic polyangiitis is p-ANCA associated without granulomas. Eosinophilic granulomatosis with polyangiitis adds asthma and eosinophilia, also p-ANCA associated."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What renal complication of systemic sclerosis presents with abrupt severe hypertension and acute kidney injury?",
+    "back": "Scleroderma renal crisis. Early treatment with an angiotensin-converting enzyme inhibitor significantly improves outcomes, so prompt recognition is critical."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What are the four traditional categories in the differential diagnosis of fever of unknown origin?",
+    "back": "Infections (tuberculosis, endocarditis, occult abscess), malignancy (such as lymphoma or renal cell carcinoma), autoimmune or inflammatory conditions (such as adult-onset Still disease or vasculitis), and miscellaneous causes (such as drug fever)."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What distinguishes Janeway lesions from Osler nodes in infective endocarditis?",
+    "back": "Janeway lesions are painless erythematous macules on the palms and soles from septic microemboli. Osler nodes are painful, tender nodules on the finger and toe pads from immune complex deposition."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "What is the appropriate immediate treatment for hyperkalemia with electrocardiographic changes, and what is given first?",
+    "back": "Intravenous calcium is given first to stabilize the cardiac membrane and reduce arrhythmia risk, even though it does not lower serum potassium. Insulin with glucose and potassium-removal measures follow."
+  },
+  {
+    "domain": "multisystem_processes_and_disorders",
+    "front": "Why does correcting chronic severe hyponatremia too quickly cause harm, and what is the safe correction rate?",
+    "back": "Rapid correction (generally more than 8 to 10 mEq/L in the first 24 hours) risks osmotic demyelination syndrome, a serious and often irreversible neurologic injury. Correction should proceed slowly with frequent monitoring."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "In DKA, why can the initial serum potassium be normal or high despite total body potassium depletion?",
+    "back": "Insulin deficiency and acidosis shift potassium out of cells into the serum, masking true total body depletion. Check potassium before starting insulin; if below 3.3 mEq/L, replete potassium first, since insulin will drive it back into cells and can cause dangerous hypokalemia."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "How do DKA and HHS differ in their typical glucose, pH, and ketone findings?",
+    "back": "DKA usually shows glucose above 250 mg/dL, pH below 7.3, and positive ketones, occurring mainly in type 1 diabetes. HHS shows much higher glucose, often above 600 mg/dL, near-normal pH, and absent or minimal ketones, occurring in type 2 diabetes with residual insulin secretion."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "What is the correct sequence for adding dextrose during a DKA insulin infusion?",
+    "back": "Once glucose falls to about 200 to 250 mg/dL, add dextrose to the intravenous fluids while continuing the insulin infusion. This allows insulin to keep clearing ketosis without causing hypoglycemia; stopping insulin too early leaves ketogenesis unchecked."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "What diagnostic criteria establish type 2 diabetes mellitus?",
+    "back": "Fasting plasma glucose of 126 mg/dL or higher, a 2-hour oral glucose tolerance test value of 200 mg/dL or higher, hemoglobin A1c of 6.5 percent or higher, or a random glucose of 200 mg/dL or higher with classic symptoms. Confirm on a separate day unless symptoms are unmistakable."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "Which diabetes medication classes have proven cardiovascular benefit beyond glucose lowering?",
+    "back": "GLP-1 receptor agonists and SGLT2 inhibitors both reduce major adverse cardiovascular events independent of their glycemic effect. They are preferred additions to metformin in patients with established atherosclerotic disease, heart failure, or chronic kidney disease."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "What lab pattern distinguishes primary from secondary hypothyroidism?",
+    "back": "Primary hypothyroidism (thyroid gland failure) shows a high TSH with low free T4. Secondary hypothyroidism (pituitary or hypothalamic failure) shows a low or inappropriately normal TSH with low free T4, since the pituitary cannot mount the expected TSH response."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "What antibody and gland finding support a diagnosis of Hashimoto thyroiditis?",
+    "back": "Anti-thyroid peroxidase and anti-thyroglobulin antibodies are typically positive, and the thyroid gland is firm, nontender, and diffusely enlarged on exam. It is the most common cause of hypothyroidism in iodine-sufficient countries like the United States."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "Why must fever or sore throat prompt urgent evaluation in a patient taking methimazole?",
+    "back": "Methimazole carries a risk of agranulocytosis, and fever or sore throat can be the only early warning sign. The medication should be held and a complete blood count checked promptly rather than assuming a routine viral illness."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "Which antithyroid drug is preferred in the first trimester of pregnancy, and why?",
+    "back": "Propylthiouracil is preferred in the first trimester because methimazole carries a rare risk of embryopathy during this period. A switch back to methimazole is often made after the first trimester to reduce propylthiouracil's own hepatotoxicity risk."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "What radioactive iodine uptake pattern distinguishes Graves disease from subacute thyroiditis?",
+    "back": "Graves disease shows high, diffuse radioactive iodine uptake from new hormone synthesis. Subacute thyroiditis shows low uptake because the thyrotoxic phase comes from inflammatory release of preformed hormone, not new production."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "What is the correct medication sequence for treating thyroid storm?",
+    "back": "Give a beta blocker and an antithyroid drug such as propylthiouracil first, then give iodine solution at least one hour later. Giving iodine too early can provide substrate for new hormone synthesis before the antithyroid drug takes effect."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "What ultrasound features of a thyroid nodule raise suspicion for malignancy?",
+    "back": "Microcalcifications, irregular margins, marked hypoechogenicity, and a height-to-width ratio greater than 1 all raise suspicion. These features, when TSH is normal or high, should prompt fine needle aspiration biopsy."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "What is the initial screening test for suspected Cushing syndrome, and why not a random cortisol?",
+    "back": "A 24-hour urinary free cortisol, late-night salivary cortisol, or overnight low-dose dexamethasone suppression test. Cortisol follows a diurnal rhythm, so a single random morning value is unreliable for screening."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "Why does ectopic ACTH secretion from a lung tumor often cause more severe hypokalemia than pituitary Cushing disease?",
+    "back": "Very high ACTH levels drive marked cortisol overproduction, and cortisol at high enough levels has mineralocorticoid-like effects on the kidney, promoting potassium wasting more prominently than typical pituitary-driven Cushing disease."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "Why is aldosterone typically preserved in secondary but not primary adrenal insufficiency?",
+    "back": "Aldosterone secretion is primarily controlled by the renin-angiotensin system, not ACTH. Primary adrenal insufficiency destroys the whole cortex, losing both cortisol and aldosterone, while secondary disease from pituitary failure spares aldosterone production."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "Why must alpha blockade always precede beta blockade before pheochromocytoma surgery?",
+    "back": "Starting a beta blocker first leaves alpha-adrenergic vasoconstriction unopposed, which can trigger a severe hypertensive crisis. Alpha blockade (typically phenoxybenzamine) must be established first, with beta blockade added afterward if needed."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "In panhypopituitarism, why must glucocorticoids be replaced before levothyroxine?",
+    "back": "Levothyroxine accelerates cortisol metabolism. Starting it before glucocorticoid replacement can unmask or worsen underlying adrenal insufficiency and precipitate an adrenal crisis, so cortisol replacement always comes first."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "What laboratory pattern distinguishes primary from secondary hyperparathyroidism?",
+    "back": "Primary hyperparathyroidism shows high calcium with high or inappropriately normal PTH, usually from a solitary adenoma. Secondary hyperparathyroidism shows low or low-normal calcium with high PTH, driven by chronic kidney disease or vitamin D deficiency."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "Why is PTH appropriately suppressed in hypercalcemia of malignancy from PTH-related peptide?",
+    "back": "PTH-related peptide activates the same receptor as PTH on bone and kidney but is a distinct molecule not detected by a standard intact PTH assay. The elevated calcium properly suppresses true PTH secretion through normal feedback."
+  },
+  {
+    "domain": "endocrine_system",
+    "front": "What five criteria define metabolic syndrome, and how many must be met?",
+    "back": "At least three of: abdominal obesity, triglycerides 150 mg/dL or higher, HDL below 40 in men or 50 in women, blood pressure 130/85 mmHg or higher, and fasting glucose 100 mg/dL or higher. It reflects underlying insulin resistance."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "What blood pressure and proteinuria values define preeclampsia?",
+    "back": "New-onset blood pressure of 140/90 mm Hg or higher after 20 weeks gestation, plus either proteinuria (300 mg or more per 24-hour urine, protein-to-creatinine ratio of 0.3 or greater, or 2+ on dipstick) or evidence of end-organ dysfunction if proteinuria is absent."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "What laboratory and blood pressure findings define severe features of preeclampsia?",
+    "back": "Systolic blood pressure 160 mm Hg or higher or diastolic 110 mm Hg or higher on two readings four hours apart, platelet count below 100,000/microliter, creatinine above 1.1 mg/dL or doubled, liver transaminases at least twice normal, pulmonary edema, or new headache or visual disturbance."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "What does the acronym HELLP stand for and what is it a variant of?",
+    "back": "Hemolysis, Elevated Liver enzymes, and Low Platelets; it is a severe variant of preeclampsia that can occur with or without frank hypertension and carries risk of hepatic rupture and disseminated intravascular coagulation."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "What is the first sign of magnesium sulfate toxicity, and what is the antidote?",
+    "back": "Loss of deep tendon reflexes is the earliest sign, occurring before respiratory depression and cardiac arrest at higher levels. The antidote is calcium gluconate."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "Which antihypertensive classes are contraindicated throughout pregnancy, and why?",
+    "back": "ACE inhibitors and angiotensin receptor blockers are contraindicated throughout pregnancy because of fetal renal toxicity; they may be used postpartum."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "Who should receive low-dose aspirin for preeclampsia prevention, and when should it start?",
+    "back": "Patients with one high-risk factor (prior preeclampsia, multifetal gestation, chronic hypertension, diabetes, renal disease, or autoimmune disease) or two or more moderate risk factors, starting at 12 to 28 weeks and ideally before 16 weeks."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "What are the two approaches to gestational diabetes screening and their diagnostic thresholds?",
+    "back": "Two-step: 50g one-hour challenge, if abnormal confirm with 100g three-hour OGTT (two or more abnormal values diagnostic). One-step: 75g two-hour OGTT, one abnormal value (fasting 92, one-hour 180, two-hour 153 mg/dL) is diagnostic."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "Why does gestational diabetes not increase the risk of congenital anomalies, unlike pregestational diabetes?",
+    "back": "Gestational diabetes typically develops in the late second trimester, after organogenesis is already complete, so hyperglycemia does not affect fetal organ formation the way poorly controlled pregestational diabetes does around conception."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "What is the discriminatory zone in early pregnancy, and how is it used?",
+    "back": "The beta-hCG level (roughly 1,500 to 2,000 mIU/mL) above which a gestational sac should be visible on transvaginal ultrasound in a normal intrauterine pregnancy; if no sac is seen above this level, ectopic pregnancy must be suspected."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "What is the expected rise in beta-hCG in a normal early intrauterine pregnancy?",
+    "back": "Beta-hCG roughly doubles every 48 to 72 hours in a normally progressing early intrauterine pregnancy; a slower rise, plateau, or fall suggests a failing pregnancy or an ectopic pregnancy."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "What criteria must be met for methotrexate treatment of an unruptured ectopic pregnancy?",
+    "back": "Hemodynamic stability, no fetal cardiac activity, hCG generally below about 5,000 mIU/mL, mass size under about 3.5 to 4 cm, and no contraindication such as breastfeeding, immunodeficiency, hepatic or renal disease, or peptic ulcer disease."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "How do threatened, inevitable, incomplete, complete, and missed abortion differ?",
+    "back": "Threatened: closed os, viable pregnancy, with bleeding. Inevitable: open os, no tissue expelled yet. Incomplete: open os, some tissue retained. Complete: empty uterus after full expulsion. Missed: fetal demise with no expulsion and a closed os."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "What is the standard workup for recurrent pregnancy loss?",
+    "back": "Testing for antiphospholipid syndrome, evaluation of uterine anatomy, parental karyotype for chromosomal translocations, and screening for uncontrolled thyroid disease or diabetes."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "What are the three tiers of fetal heart rate tracing interpretation, and how is each managed?",
+    "back": "Category I (normal baseline, moderate variability, no late or variable decelerations) is reassuring. Category II is indeterminate, managed with observation. Category III (absent variability with recurrent late or variable decelerations, bradycardia, or sinusoidal pattern) requires immediate intrauterine resuscitation and expedited delivery if it does not improve."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "What distinguishes early, late, and variable decelerations by mechanism?",
+    "back": "Early decelerations mirror the contraction and reflect fetal head compression (benign). Late decelerations begin after the contraction peak and reflect uteroplacental insufficiency (concerning). Variable decelerations have abrupt, variably timed onset and reflect umbilical cord compression."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "How is an arrest disorder in the active phase of labor defined and managed?",
+    "back": "No cervical change for four hours with adequate contractions (or six hours with inadequate contractions) after 6 cm dilation with ruptured membranes; first-line management is oxytocin augmentation or amniotomy, with cephalopelvic disproportion diagnosed only after adequate contractions fail to produce progress."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "What is the first-line management for shoulder dystocia, and what maneuver should never be used?",
+    "back": "The McRoberts maneuver (hyperflexing the maternal hips) combined with suprapubic pressure is first-line. Fundal pressure should never be used, since it worsens impaction of the shoulder."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "What are the four Ts of postpartum hemorrhage, and which is most common?",
+    "back": "Tone (uterine atony), Tissue (retained placenta), Trauma (lacerations or rupture), and Thrombin (coagulopathy). Uterine atony (Tone) accounts for about 70 to 80% of cases."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "How does postpartum psychosis differ from the baby blues and postpartum depression in timing and severity?",
+    "back": "The baby blues begin within days and resolve within about two weeks with mild mood lability and no impairment. Postpartum depression persists beyond two weeks with functional impairment. Postpartum psychosis presents within the first two weeks with hallucinations, delusions, or thoughts of harming the infant, and is a psychiatric emergency requiring immediate hospitalization."
+  },
+  {
+    "domain": "pregnancy_childbirth_and_the_puerperium",
+    "front": "When is anti-D immune globulin (Rhogam) given, and when is it not useful?",
+    "back": "Given at 28 weeks, within 72 hours of delivery if the newborn is Rh-positive, and after any sensitizing event, to prevent maternal antibody formation before sensitization occurs. It has no benefit once a patient is already alloimmunized."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "What is the formula for sensitivity, and what does a highly sensitive test rule out?",
+    "back": "Sensitivity = true positives / (true positives + false negatives). A highly sensitive test has few false negatives, so a negative result helps rule the disease out (SnNout)."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "What is the formula for specificity, and what does a highly specific test rule in?",
+    "back": "Specificity = true negatives / (true negatives + false positives). A highly specific test has few false positives, so a positive result helps rule the disease in (SpPin)."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "What is the formula for positive predictive value (PPV), and how does prevalence affect it?",
+    "back": "PPV = true positives / (true positives + false positives). As disease prevalence falls, PPV falls, since a larger fraction of positive results become false positives."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "What is the formula for negative predictive value (NPV), and how does prevalence affect it?",
+    "back": "NPV = true negatives / (true negatives + false negatives). As disease prevalence falls, NPV rises, since true negatives make up a larger share of the population."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "How are the positive and negative likelihood ratios calculated from sensitivity and specificity?",
+    "back": "LR+ = sensitivity / (1 - specificity). LR- = (1 - sensitivity) / specificity. Unlike PPV and NPV, likelihood ratios do not change with disease prevalence."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "What is the formula for relative risk (RR), and which study design calculates it directly?",
+    "back": "RR = incidence in the exposed group / incidence in the unexposed group. Cohort studies and randomized controlled trials calculate RR directly, since both measure incidence in each group."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "What is the formula for the odds ratio (OR), and which study design uses it?",
+    "back": "OR = (a x d) / (b x c) from a 2x2 table of exposed/unexposed cases and controls. Case-control studies use OR because they cannot directly calculate incidence."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "What is the rare disease assumption, and why does it matter?",
+    "back": "When a disease is rare in the source population, the odds ratio from a case-control study closely approximates the relative risk a cohort study would have found."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "How is the number needed to treat (NNT) calculated, and what does a lower NNT mean?",
+    "back": "NNT = 1 / absolute risk reduction (control event rate minus experimental event rate). A lower NNT means fewer patients need treatment for one additional patient to benefit."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "How is the number needed to harm (NNH) calculated, and what does a higher NNH mean?",
+    "back": "NNH = 1 / absolute risk increase (treatment event rate minus control event rate). A higher NNH means more patients must be exposed before one is harmed, which is more favorable."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "What is the difference between incidence and prevalence?",
+    "back": "Incidence is new cases over a period divided by the population at risk. Prevalence is all existing cases at one point in time divided by the total population. Prevalence approximately equals incidence times average disease duration."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "What is lead-time bias, and how does it distort apparent survival after screening?",
+    "back": "Lead-time bias occurs when early detection lengthens the known duration of disease without changing the actual time of death, making screen-detected patients appear to survive longer even though nothing about the disease course changed."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "What is length-time bias, and why does it favor screen-detected disease?",
+    "back": "Length-time bias occurs because screening preferentially detects slower-growing, less aggressive disease that stays detectable longer, while fast-growing disease is more likely to present with symptoms between screenings, making the screened group look healthier than the truth."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "What is the difference between a confounder and an effect modifier?",
+    "back": "A confounder is a third variable independently linked to both exposure and outcome that distorts the true association and should be adjusted for. An effect modifier genuinely changes the strength of an association across strata and should be reported separately, not adjusted away."
+  },
+  {
+    "domain": "biostatistics_epidemiology_and_population_health",
+    "front": "What do a type I error, a type II error, and statistical power each represent?",
+    "back": "Type I error (alpha) is a false positive: rejecting a true null hypothesis. Type II error (beta) is a false negative: failing to reject a false null hypothesis. Power (1 minus beta) is the probability of correctly detecting a true effect, and it increases with larger sample size and effect size."
+  }
+]
